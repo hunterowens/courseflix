@@ -19,39 +19,56 @@ class ClassListing(db.Model):
 class Adjective(db.Model):
     __tablename__ = 'adjectives'
     name = db.Column(db.String(255), primary_key=True)
+    def __init__(self,name):
+        self.name = name
 
 class TimePeriod(db.Model):
     __tablename__ = 'times'
     time = db.Column(db.String(255), primary_key=True)
+    def __init__(self, time):
+        self.time = time
 
 class Region(db.Model):
     __tablename__ = 'regions'
     region = db.Column(db.String(50), primary_key=True)
+    def __init__(self, region):
+        self.region = region
 
 class DescriptionBuzzword(db.Model):
     __tablename__ = 'descbuzz'
     buzzword = db.Column(db.String(50), primary_key=True)
+    def __init__(self,buzzword):
+        self.buzzword = buzzword
 
 class DescriptionReality(db.Model):
     __tablename__ = 'descreality'
     reality = db.Column(db.String(50), primary_key=True)
+    def __init__(self,reality):
+        self.reality = reality
 
 class ProfessorAdjective(db.Model):
     __tablename__ = 'professors_adj'
     adjective = db.Column(db.String(100), primary_key=True)
+    def __init__(self,adj):
+        self.adjective = adj
 
-class ProfessorAdjective(db.Model):
+class ProfessorActivity(db.Model):
     __tablename__ = 'professors_act'
-    activty = db.Column(db.String(100), primary_key=True)
+    activity = db.Column(db.String(100), primary_key=True)
+    def __init__(self,activity):
+        self.activty = activty
 
 class AudienceSterotype(db.Model):
     __tablename__ = 'audiences_stero'
     sterotype = db.Column(db.String(100), primary_key=True)
-    
+    def __init__(self,sterotype):
+        self.sterotype = sterotype
+
 class AudienceDescription(db.Model):
     __tablename__ = 'audience_desc'
     description = db.Column(db.String(255), primary_key=True)
-    
+    def __init__(self,description):
+        self.description = description
 
 
 ##############################################
