@@ -165,6 +165,15 @@ def load_course_data():
         db.session.add(class_name)
     db.session.commit()
 
+def load_desc_data():
+    import csv
+    data = csv.DictReader(open('data/course_desc.csv'))
+    for row in data:
+        if row['About'] != '':
+            about = DescriptionReality(row['About'])
+            db.session.add(about)
+    db.session.commit()
+    print "all loaded"
 
 ### FLASK ROUTES ### 
 # FINALLY # 
@@ -175,6 +184,7 @@ def load_course_data():
 def load():
     db.create_all()
     load_course_data()
+    load_desc_data()
     return make_response('Loaded the Data')
 
 if __name__ == "__main__":
