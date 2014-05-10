@@ -112,5 +112,6 @@ def fetch_random(model):
     else:
         return None
 
-
-
+def random_cat():
+    catagory = {}
+    catagory['']
