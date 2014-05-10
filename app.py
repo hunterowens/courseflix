@@ -114,4 +114,21 @@ def fetch_random(model):
 
 def random_cat():
     catagory = {}
-    catagory['']
+    catagory['adj'] = fetch_random(Adjective)
+    catagory['time'] = fetch_random(TimePeriod)
+    catagory['region'] = fetch_random(Region)
+    catagory['buzzword'] = fetch_random(DescriptionBuzzword)
+    catagory['reality'] = fetch_random(DescriptionReality)
+    return catagory
+
+def random_professor():
+    professor = {}
+    professor['adj'] = fetch_random(ProfessorAdjective)
+    professor['act'] = fetch_random(ProfessorAdjective)
+    return professor    
+
+def random_audience():
+    aud = {}
+    aud['sterotype'] = fetch_random(AudienceSterotype)
+    aud['desc'] = fetch_random(AudienceDescription)
+    return aud 
