@@ -13,6 +13,8 @@ db = SQLAlchemy(app)
 class ClassListing(db.Model):
     __tablename__ = 'classes'
     name = db.Column(db.String(255), primary_key=True)
+    def __init__(self,name):
+        self.name = name
 
 class Adjective(db.Model):
     __tablename__ = 'adjectives'
@@ -130,3 +132,33 @@ def random_audience():
     aud['sterotype'] = fetch_random(AudienceSterotype)
     aud['desc'] = fetch_random(AudienceDescription)
     return aud 
+
+def random_class():
+    class_list = {}
+    class_list['name'] = fetch_random(ClassListing)
+    return class_list
+
+##### DATA LOADING #### 
+
+def load_course_data():
+    import codecs
+    lines = [line.strip() for line in codecs.open('./data/class-names.txt','r','utf-8')]
+    for line in lines: 
+        class_name = ClassListing(line)
+        db.session.add(class_name)
+    db.session.commit()
+
+
+### FLASK ROUTES ### 
+# FINALLY # 
+
+
+
+@app.route('/load/', methods=['GET', 'POST'])
+def load():
+    db.create_all()
+    load_course_data()
+    return make_response('Loaded the Data')
+
+if __name__ == "__main__":
+    app.run(debug=True)
