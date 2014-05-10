@@ -126,7 +126,7 @@ def fetch_random(model):
     if count:
         index = random.randint(0, count - 1)
         pk = db.session.query(db.distinct(model.name)).all()[index][0]
-        return model.query.get(pk)
+        return pk
     else:
         return None
 
@@ -206,6 +206,7 @@ def load_desc_data():
 def random_set():
     data = {}
     data['cat'] = random_cat()
+    
     resp = make_response(json.dumps(data))
     resp.headers['Content-Type'] = 'application/json'
     return resp
