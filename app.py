@@ -3,7 +3,8 @@ from functools import update_wrapper
 from flask_sqlalchemy import SQLAlchemy
 import json
 import os
-
+import csv
+import random
 app = Flask(__name__)
 app.config['SQLALCHEMY_DATABASE_URI'] = os.environ['DATABASE_URL']
 db = SQLAlchemy(app)
@@ -24,51 +25,51 @@ class Adjective(db.Model):
 
 class TimePeriod(db.Model):
     __tablename__ = 'times'
-    time = db.Column(db.String(255), primary_key=True)
+    name = db.Column(db.String(255), primary_key=True)
     def __init__(self, time):
-        self.time = time
+        self.name = time
 
 class Region(db.Model):
     __tablename__ = 'regions'
-    region = db.Column(db.String(50), primary_key=True)
+    name = db.Column(db.String(50), primary_key=True)
     def __init__(self, region):
-        self.region = region
+        self.name = region
 
 class DescriptionBuzzword(db.Model):
     __tablename__ = 'descbuzz'
-    buzzword = db.Column(db.String(50), primary_key=True)
+    name = db.Column(db.String(50), primary_key=True)
     def __init__(self,buzzword):
-        self.buzzword = buzzword
+        self.name = buzzword
 
 class DescriptionReality(db.Model):
     __tablename__ = 'descreality'
-    reality = db.Column(db.String(50), primary_key=True)
+    name = db.Column(db.String(50), primary_key=True)
     def __init__(self,reality):
-        self.reality = reality
+        self.name = reality
 
 class ProfessorAdjective(db.Model):
     __tablename__ = 'professors_adj'
-    adjective = db.Column(db.String(100), primary_key=True)
+    name = db.Column(db.String(100), primary_key=True)
     def __init__(self,adj):
-        self.adjective = adj
+        self.name = adj
 
 class ProfessorActivity(db.Model):
     __tablename__ = 'professors_act'
-    activity = db.Column(db.String(100), primary_key=True)
+    name =db.Column(db.String(100), primary_key=True)
     def __init__(self,activity):
-        self.activty = activty
+        self.name = activity
 
 class AudienceSterotype(db.Model):
     __tablename__ = 'audiences_stero'
-    sterotype = db.Column(db.String(100), primary_key=True)
+    name = db.Column(db.String(100), primary_key=True)
     def __init__(self,sterotype):
-        self.sterotype = sterotype
+        self.name = sterotype
 
 class AudienceDescription(db.Model):
     __tablename__ = 'audience_desc'
-    description = db.Column(db.String(255), primary_key=True)
+    name = db.Column(db.String(255), primary_key=True)
     def __init__(self,description):
-        self.description = description
+        self.name = description
 
 
 ##############################################
@@ -124,7 +125,7 @@ def fetch_random(model):
     count = model.query.count()
     if count:
         index = random.randint(0, count - 1)
-        pk = db.session.query(db.distinct(model.url)).all()[index][0]
+        pk = db.session.query(db.distinct(model.name)).all()[index][0]
         return model.query.get(pk)
     else:
         return None
@@ -169,16 +170,45 @@ def load_desc_data():
     import csv
     data = csv.DictReader(open('data/course_desc.csv'))
     for row in data:
-        if row['About'] != '':
-            about = DescriptionReality(row['About'])
-            db.session.add(about)
+        if row['Adjectives']:
+            adj = Adjective(row['Adjectives'])
+            db.session.add(adj)
+        if row['Time Period']:
+            time = TimePeriod(row['Time Period'])
+            db.session.add(time)
+        if row['Region']:
+            region = Region(row['Region'])
+            db.session.add(region)
+        if row['About (Buzzword)']:
+            buzzword = DescriptionBuzzword(row['About (Buzzword)'])
+            db.session.add(buzzword)
+        if row['About']:
+            reality = DescriptionReality(row['About'])
+            db.session.add(reality)
+        if row['Professor Adjective']:
+            prof_adj = ProfessorAdjective(row['Professor Adjective'])
+            db.session.add(prof_adj)
+        if row['Who']:
+            prof_desc = ProfessorActivity(row['Who'])
+            db.session.add(prof_desc)
+        if row['For']:
+            audiences_stero = AudienceSterotype(row['For'])
+            db.session.add(audiences_stero)
+        if row['Other']:
+            audience_desc = AudienceDescription(row['Other'])
+            db.session.add(audience_desc)
     db.session.commit()
-    print "all loaded"
 
 ### FLASK ROUTES ### 
 # FINALLY # 
 
-
+@app.route('/random/', methods=['GET'])
+def random_set():
+    data = {}
+    data['cat'] = random_cat()
+    resp = make_response(json.dumps(data))
+    resp.headers['Content-Type'] = 'application/json'
+    return resp
 
 @app.route('/load/', methods=['GET', 'POST'])
 def load():
@@ -186,6 +216,11 @@ def load():
     load_course_data()
     load_desc_data()
     return make_response('Loaded the Data')
+
+@app.route('/drop/')
+def drop():
+    db.drop_all()
+    return make_response('data dropped')
 
 if __name__ == "__main__":
     app.run(debug=True)
