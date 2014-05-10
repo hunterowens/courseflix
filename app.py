@@ -12,8 +12,6 @@ db = SQLAlchemy(app)
 
 class ClassListing(db.Model):
     __tablename__ = 'classes'
-    dept = db.Column(db.String(4), unique = False)
-    number = db.Column(db.Integer, unique = True)
     name = db.Column(db.String(255), primary_key=True)
 
 class Adjective(db.Model):
