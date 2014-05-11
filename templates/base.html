@@ -10,25 +10,44 @@
         <meta name="description" content="">
         <meta name="viewport" content="width=device-width">
 
-        <link href="{{ url_for('static', filename='css/foundation.min.css') }}" rel="stylesheet">
-        <link href="{{ url_for('static', filename='css/styles.css') }}" rel="stylesheet">
-        <script src="{{ url_for('static', filename='js/modernizr.js') }}"></script>
+        <!-- Latest compiled and minified CSS -->
+        <link rel="stylesheet" href="//netdna.bootstrapcdn.com/bootstrap/3.1.1/css/bootstrap.min.css">
+
+        <!-- Optional theme -->
+        <link rel="stylesheet" href="//netdna.bootstrapcdn.com/bootstrap/3.1.1/css/bootstrap-theme.min.css">
+
+        <!-- Latest compiled and minified JavaScript -->
+        <script src="//netdna.bootstrapcdn.com/bootstrap/3.1.1/js/bootstrap.min.js"></script>
     </head>
     <body>
-        <div class="row">
-          <div class="ten columns centered">
-              <h1>
-                <strong>Courseflix:</strong> The only class selection microtagging service you'd ever need
-              </h1>
-              <hr>
-              {% block content %}
-              {% endblock %}
-            </div>
-        </div>
-        <script type="application/javascript" src="{{ url_for('static', filename='js/foundation.min.js') }}"></script>
-        <script type="application/javascript" src="{{ url_for('static', filename='js/app.js') }}"></script>
-        {% block javascript %}{% endblock %}
-        <script>
+        
+
+    
+    <div class="container">
+      <div class="header">
+        <ul class="nav nav-pills pull-right">
+          <li class="active"><a href="#">Home</a></li>
+   
+        </ul>
+        <h1 class="text-muted">Courseflix</h1>
+      </div>
+
+      <div class="jumbotron">
+        <h1></h1>
+        <p class="lead"><strong>Courseflix:</strong> The Only Class Recomendation Service you will ever need. </p>
+        <hr>
+          <h1> Hello, {{ resp.adj }} </h1>
+        <hr>
+        <p><a class="btn btn-lg btn-success" href="./" role="button">Give me Another Rec</a></p>
+      </div>
+
+      <div class="footer">
+        <p>&copy; Brostomp2014</p>
+      </div>
+
+    </div> <!-- /container -->
+
+      <script>
           (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
           (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
           m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)

@@ -14,50 +14,43 @@ db = SQLAlchemy(app)
 
 class ClassListing(db.Model):
     __tablename__ = 'classes'
-    id = db.Column(db.Integer, primary_key=True)
-    name = db.Column(db.String(255))
+    name = db.Column(db.String(255), primary_key=True)
     def __init__(self,name):
         self.name = name
 
 class Adjective(db.Model):
     __tablename__ = 'adjectives'
-    id = db.Column(db.Integer, primary_key=True)
-    name = db.Column(db.String(255))
+    name = db.Column(db.String(255),primary_key=True)
     def __init__(self,name):
         self.name = name
 
 class TimePeriod(db.Model):
     __tablename__ = 'times'
-    id = db.Column(db.Integer, primary_key=True)
-    name = db.Column(db.String(255))
+    name = db.Column(db.String(255), primary_key=True)
     def __init__(self, time):
         self.name = time
 
 class Region(db.Model):
     __tablename__ = 'regions'
-    id = db.Column(db.Integer, primary_key=True)
-    name = db.Column(db.String(50))
+    name = db.Column(db.String(50),primary_key=True)
     def __init__(self, region):
         self.name = region
 
 class DescriptionBuzzword(db.Model):
     __tablename__ = 'descbuzz'
-    id = db.Column(db.Integer, primary_key=True)
-    name = db.Column(db.String(50))
+    name = db.Column(db.String(50), primary_key=True)
     def __init__(self,buzzword):
         self.name = buzzword
 
 class DescriptionReality(db.Model):
     __tablename__ = 'descreality'
-    id = db.Column(db.Integer, primary_key=True)
-    name = db.Column(db.String(50))
+    name = db.Column(db.String(50), primary_key=True)
     def __init__(self,reality):
         self.name = reality
 
 class ProfessorAdjective(db.Model):
     __tablename__ = 'professors_adj'
-    id = db.Column(db.Integer, primary_key=True)
-    name = db.Column(db.String(100))
+    name = db.Column(db.String(100), primary_key=True)
     def __init__(self,adj):
         self.name = adj
 
@@ -229,6 +222,10 @@ def drop():
 
 @app.route('/')
 def index():
-    return render_template('index.html',resp=random_set())
+    return render_template('base.html', prof = random_professor(),
+                                        class_one = random_class(),
+                                        class_two = random_class(),
+                                        cat = random_cat())
+
 if __name__ == "__main__":
     app.run(debug=True)
