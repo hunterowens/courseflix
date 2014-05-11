@@ -14,43 +14,50 @@ db = SQLAlchemy(app)
 
 class ClassListing(db.Model):
     __tablename__ = 'classes'
-    name = db.Column(db.String(255), primary_key=True)
+    id = db.Column(db.Integer, primary_key=True)
+    name = db.Column(db.String(255))
     def __init__(self,name):
         self.name = name
 
 class Adjective(db.Model):
     __tablename__ = 'adjectives'
-    name = db.Column(db.String(255), primary_key=True)
+    id = db.Column(db.Integer, primary_key=True)
+    name = db.Column(db.String(255))
     def __init__(self,name):
         self.name = name
 
 class TimePeriod(db.Model):
     __tablename__ = 'times'
-    name = db.Column(db.String(255), primary_key=True)
+    id = db.Column(db.Integer, primary_key=True)
+    name = db.Column(db.String(255))
     def __init__(self, time):
         self.name = time
 
 class Region(db.Model):
     __tablename__ = 'regions'
-    name = db.Column(db.String(50), primary_key=True)
+    id = db.Column(db.Integer, primary_key=True)
+    name = db.Column(db.String(50))
     def __init__(self, region):
         self.name = region
 
 class DescriptionBuzzword(db.Model):
     __tablename__ = 'descbuzz'
-    name = db.Column(db.String(50), primary_key=True)
+    id = db.Column(db.Integer, primary_key=True)
+    name = db.Column(db.String(50))
     def __init__(self,buzzword):
         self.name = buzzword
 
 class DescriptionReality(db.Model):
     __tablename__ = 'descreality'
-    name = db.Column(db.String(50), primary_key=True)
+    id = db.Column(db.Integer, primary_key=True)
+    name = db.Column(db.String(50))
     def __init__(self,reality):
         self.name = reality
 
 class ProfessorAdjective(db.Model):
     __tablename__ = 'professors_adj'
-    name = db.Column(db.String(100), primary_key=True)
+    id = db.Column(db.Integer, primary_key=True)
+    name = db.Column(db.String(100))
     def __init__(self,adj):
         self.name = adj
 
@@ -191,7 +198,7 @@ def load_desc_data():
             audience_desc = AudienceDescription(row['Other'])
             db.session.add(audience_desc)
         if row['Class']:
-            class_name = ClassListing(row['Class'])
+            class_name = ClassListing(row['Class'].decode('utf-8'))
             db.session.add(class_name)
     db.session.commit()
 
