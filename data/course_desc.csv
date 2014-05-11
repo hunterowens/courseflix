@@ -105,10 +105,10 @@ Useless,Environmental Studies,The Eternal Now,USSR,Platonic,Biopower,Deadpan,far
 ,,,,,,,,,,ARAB 30301 High Intermediate Classical Arabic I
 ,,,,,,,,,,ARAB 30302 High Intermediate Classical Arabic II
 ,,,,,,,,,,ARAB 30303 High Intermediate Classical Arabic III
+,,,,,,,,,,ARAB 30349 Shi 'a Poetry
 ,,,,,,,,,,ARAB 30381 Introduction to Arabic Poetry
 ,,,,,,,,,,ARAB 40101 Advanced Arabic Syntax I
 ,,,,,,,,,,ARAB 40102 Advanced Arabic Syntax II
-,,,,,,,,,,ARAB 30349 Shi 'a Poetry
 ,,,,,,,,,,ARAM 10101 Biblical Aramaic
 ,,,,,,,,,,ARAM 10102 Old Aramaic Inscriptions
 ,,,,,,,,,,ARAM 10103 Imperial Aramaic
@@ -660,8 +660,8 @@ Useless,Environmental Studies,The Eternal Now,USSR,Platonic,Biopower,Deadpan,far
 ,,,,,,,,,,EALC 42610 Imperial Collections of Chinese Painting and Calligraphy
 ,,,,,,,,,,EALC 44622 Keywords in Chinese Literary and Cultural Criticism
 ,,,,,,,,,,EALC 44630 The Contemporary Chinese Novel
-,,,,,,,,,,EALC 45820 Chinese Buddhist Texts and Thought
 ,,,,,,,,,,EALC 44630 The Contemporary Chinese Novel
+,,,,,,,,,,EALC 45820 Chinese Buddhist Texts and Thought
 ,,,,,,,,,,ECON 17800 Public Policy Analysis
 ,,,,,,,,,,ECON 19800 Introduction to Microeconomics
 ,,,,,,,,,,ECON 19900 Introduction to Macroeconomics
@@ -709,8 +709,8 @@ Useless,Environmental Studies,The Eternal Now,USSR,Platonic,Biopower,Deadpan,far
 ,,,,,,,,,,ECON 29800 Undergraduate Honors Workshop
 ,,,,,,,,,,EEUR 20900 Structure Of Albanian
 ,,,,,,,,,,EEUR 23500 The Unbelievable Came True: Magic Realism in the Other Europe
-,,,,,,,,,,EEUR 27600 Milan Kundera
 ,,,,,,,,,,EEUR 23500 The Unbelievable Came True: Magic Realism in the Other Europe
+,,,,,,,,,,EEUR 27600 Milan Kundera
 ,,,,,,,,,,EGPT 10101 Introduction to Middle Egyptian Hieroglyphs I
 ,,,,,,,,,,EGPT 10102 Introduction to Middle Egyptian Hieroglyphs II
 ,,,,,,,,,,EGPT 10103 Middle Egyptian Texts I
@@ -724,6 +724,7 @@ Useless,Environmental Studies,The Eternal Now,USSR,Platonic,Biopower,Deadpan,far
 ,,,,,,,,,,EGPT 30120 Introduction to Demotic
 ,,,,,,,,,,EGPT 30121 Demotic Texts
 ,,,,,,,,,,ENGL 10400 Introduction to Poetry
+,,,,,,,,,,ENGL 10400 Introduction to Poetry
 ,,,,,,,,,,ENGL 10700 Introduction to Fiction: The Short Story
 ,,,,,,,,,,ENGL 10800 Introduction to Film Analysis
 ,,,,,,,,,,ENGL 11100 Critical Perspectives
@@ -731,9 +732,13 @@ Useless,Environmental Studies,The Eternal Now,USSR,Platonic,Biopower,Deadpan,far
 ,,,,,,,,,,ENGL 13800 History and Theory of Drama I
 ,,,,,,,,,,ENGL 13900 History and Theory of Drama II
 ,,,,,,,,,,ENGL 14900 Old English
+,,,,,,,,,,ENGL 14900 Old English
 ,,,,,,,,,,ENGL 15000 Old English Poetry
+,,,,,,,,,,ENGL 15000 Old English Poetry
 ,,,,,,,,,,ENGL 15500 Chaucer: The Canterbury Tales
+,,,,,,,,,,ENGL 15500 Chaucer: The Canterbury Tales
 ,,,,,,,,,,ENGL 15800 Medieval Epic
+,,,,,,,,,,ENGL 15800 Medieval Epic
 ,,,,,,,,,,ENGL 16202 Spenser
 ,,,,,,,,,,ENGL 16500 Shakespeare I: Histories and Comedies
 ,,,,,,,,,,ENGL 16600 Shakespeare II: Tragedies and Romances
@@ -746,6 +751,7 @@ Useless,Environmental Studies,The Eternal Now,USSR,Platonic,Biopower,Deadpan,far
 ,,,,,,,,,,ENGL 18910 Theories of the Novel
 ,,,,,,,,,,ENGL 20102 London Program: Victorian London in Literature and Art
 ,,,,,,,,,,ENGL 20104 London Program: Monty Python and the Holy Grail: King Arthur
+,,,,,,,,,,ENGL 20104 London Program: Monty Python and the Holy Grail: King Arthur
 ,,,,,,,,,,ENGL 20120 London Program: Slums and Slumming: Late Victorian East End
 ,,,,,,,,,,ENGL 20215 Wordsworth and Byron
 ,,,,,,,,,,ENGL 20216 Poetry and Religion
@@ -791,12 +797,6 @@ Useless,Environmental Studies,The Eternal Now,USSR,Platonic,Biopower,Deadpan,far
 ,,,,,,,,,,ENGL 29600 History of International Cinema II: Sound Era to 1960
 ,,,,,,,,,,ENGL 29700 Reading Course
 ,,,,,,,,,,ENGL 29900 Independent BA Paper Preparation
-,,,,,,,,,,ENGL 10400 Introduction to Poetry
-,,,,,,,,,,ENGL 14900 Old English
-,,,,,,,,,,ENGL 15000 Old English Poetry
-,,,,,,,,,,ENGL 15500 Chaucer: The Canterbury Tales
-,,,,,,,,,,ENGL 15800 Medieval Epic
-,,,,,,,,,,ENGL 20104 London Program: Monty Python and the Holy Grail: King Arthur
 ,,,,,,,,,,ENST 12100 Chemistry and the Atmosphere
 ,,,,,,,,,,ENST 12300 Global Warming: Understanding the Forecast
 ,,,,,,,,,,ENST 12404 Environmental Ecology
@@ -1083,9 +1083,12 @@ Useless,Environmental Studies,The Eternal Now,USSR,Platonic,Biopower,Deadpan,far
 ,,,,,,,,,,HIST 21005 Economy and Society in Ancient Greece and Rome
 ,,,,,,,,,,"HIST 21702 Byzantine Empire, 610 to 1025"
 ,,,,,,,,,,"HIST 21703 Byzantine Empire, 1025 to 1453"
+,,,,,,,,,,"HIST 21703 Byzantine Empire, 1025 to 1453"
 ,,,,,,,,,,HIST 21900 History of Strategy
 ,,,,,,,,,,HIST 22001 Byzantium and Islam
+,,,,,,,,,,HIST 22001 Byzantium and Islam
 ,,,,,,,,,,HIST 22111 Mary and Mariology
+,,,,,,,,,,HIST 22111 Mary and Mariology
 ,,,,,,,,,,HIST 22202 Jewish History and Society III
 ,,,,,,,,,,HIST 22406 Jewish History and Society II
 ,,,,,,,,,,HIST 22707 Britain's Industrial Revolution
@@ -1096,8 +1099,11 @@ Useless,Environmental Studies,The Eternal Now,USSR,Platonic,Biopower,Deadpan,far
 ,,,,,,,,,,"HIST 23305 Europe, 1660 to 1815"
 ,,,,,,,,,,"HIST 23306 Europe, 1914 to Present"
 ,,,,,,,,,,HIST 23407 Comparative Kingship: Rulers in 12th-Century Europe
+,,,,,,,,,,HIST 23407 Comparative Kingship: Rulers in 12th-Century Europe
 ,,,,,,,,,,HIST 23510 The Arts of Language in the Middle Ages: The Trivium
+,,,,,,,,,,HIST 23510 The Arts of Language in the Middle Ages: The Trivium
 ,,,,,,,,,,"HIST 24003 The Russian Empire, 1700 to 1917"
+,,,,,,,,,,"HIST 24003 The Russian Empire, 1700 to 1917"
 ,,,,,,,,,,HIST 24110 Buddhism and the West
 ,,,,,,,,,,HIST 24111 The Japanese Empire and National Formations in East Asia
 ,,,,,,,,,,HIST 24206 Medicine and Culture in Modern East Asia
@@ -1144,16 +1150,10 @@ Useless,Environmental Studies,The Eternal Now,USSR,Platonic,Biopower,Deadpan,far
 ,,,,,,,,,,HIST 29625 History Colloquium: The European Family
 ,,,,,,,,,,HIST 29626 History Colloquium: Sex and the City in International History
 ,,,,,,,,,,HIST 29627 History Colloquium: Life Stories of Russian Women
+,,,,,,,,,,HIST 29627 History Colloquium: Life Stories of Russian Women
 ,,,,,,,,,,HIST 29700 Readings in History
 ,,,,,,,,,,HIST 29802 BA Essay Seminar
 ,,,,,,,,,,HIST 29900 Tolkien: Medieval and Modern
-,,,,,,,,,,"HIST 21703 Byzantine Empire, 1025 to 1453"
-,,,,,,,,,,HIST 22001 Byzantium and Islam
-,,,,,,,,,,HIST 22111 Mary and Mariology
-,,,,,,,,,,HIST 23407 Comparative Kingship: Rulers in 12th-Century Europe
-,,,,,,,,,,HIST 23510 The Arts of Language in the Middle Ages: The Trivium
-,,,,,,,,,,"HIST 24003 The Russian Empire, 1700 to 1917"
-,,,,,,,,,,HIST 29627 History Colloquium: Life Stories of Russian Women
 ,,,,,,,,,,HUMA 02980 Practicum
 ,,,,,,,,,,HUMA 19100 Humanities Writing Seminars
 ,,,,,,,,,,HUMA 23502 The Organization of Knowledge
@@ -1227,12 +1227,12 @@ Useless,Environmental Studies,The Eternal Now,USSR,Platonic,Biopower,Deadpan,far
 ,,,,,,,,,,LATN 21800 Roman Historian
 ,,,,,,,,,,LATN 21900 Roman Comedy
 ,,,,,,,,,,LATN 22100 Lucretius
+,,,,,,,,,,LATN 22100 Lucretius
 ,,,,,,,,,,LATN 22200 Roman Satire
 ,,,,,,,,,,LATN 22300 Roman Oratory
 ,,,,,,,,,,LATN 25811 Cicero's De Finibus and Hellenistic Ethics
 ,,,,,,,,,,LATN 29700 Reading Course
 ,,,,,,,,,,LATN 34400 Latin Prose Composition
-,,,,,,,,,,LATN 22100 Lucretius
 ,,,,,,,,,,LGLN 22001 From Proto-Indo-European to Old Church Slavonic
 ,,,,,,,,,,LGLN 25100 Old Church Slavonic
 ,,,,,,,,,,LING 20001 Introduction to Linguistics
@@ -1363,6 +1363,7 @@ Useless,Environmental Studies,The Eternal Now,USSR,Platonic,Biopower,Deadpan,far
 ,,,,,,,,,,NEAA 20003 Archaeology of the Ancient Near East III: Levant
 ,,,,,,,,,,NEAA 20004 Archaeology of the Ancient Near East IV: Pre-Islamic Arabia
 ,,,,,,,,,,NEAA 20005 Archaeology of the Ancient Near East V: Islamic Period
+,,,,,,,,,,NEAA 20005 Archaeology of the Ancient Near East V: Islamic Period
 ,,,,,,,,,,NEAA 20006 Archaeology of the Ancient Near East VI: Egypt
 ,,,,,,,,,,NEAA 20030 The Rise of the State in the Near East
 ,,,,,,,,,,NEAA 20035 Zooarchaeology
@@ -1384,15 +1385,16 @@ Useless,Environmental Studies,The Eternal Now,USSR,Platonic,Biopower,Deadpan,far
 ,,,,,,,,,,"NEAA 20760 Mongol and Timurid Art and Architecture in the Islamic Lands, 1258 to 1506"
 ,,,,,,,,,,NEAA 29700 Reading and Research Course: Near Eastern Art and Archaeology
 ,,,,,,,,,,NEAA 30162 Uruk Mesopotamia and Neighboring Regions
-,,,,,,,,,,NEAA 20005 Archaeology of the Ancient Near East V: Islamic Period
 ,,,,,,,,,,NEHC 10101 Introduction to the Middle East
 ,,,,,,,,,,NEHC 20025 Introduction to Islamic Law
 ,,,,,,,,,,NEHC 20089 Muhammad and Ahmad al-Ghazali
+,,,,,,,,,,NEHC 20089 Muhammad and Ahmad al-Ghazali
 ,,,,,,,,,,NEHC 20175 The Achaemenid Persian Empire
 ,,,,,,,,,,NEHC 20255 An Introduction to Sh 'ite Islam
 ,,,,,,,,,,NEHC 20404 Jewish Thought and Literature I
 ,,,,,,,,,,NEHC 20405 Jewish Thought and Literature II
 ,,,,,,,,,,NEHC 20406 Jewish Thought and Literature III
+,,,,,,,,,,NEHC 20502 Islamic History and Society II: The Middle Period
 ,,,,,,,,,,NEHC 20539 The Renaissance East and West
 ,,,,,,,,,,NEHC 20568 Balkan Folklore
 ,,,,,,,,,,NEHC 20573 The Burden of History: A Nation and Its Lost Paradise
@@ -1407,6 +1409,7 @@ Useless,Environmental Studies,The Eternal Now,USSR,Platonic,Biopower,Deadpan,far
 ,,,,,,,,,,NEHC 20762 Contemporary Central Asia
 ,,,,,,,,,,NEHC 20765 Introduction to the Musical Folklore of Central Asia
 ,,,,,,,,,,NEHC 20766 Shamans and Oral Poets of Central Asia
+,,,,,,,,,,NEHC 20766 Shamans and Oral Poets of Central Asia
 ,,,,,,,,,,NEHC 20767 Pre-modern Armenian Literature &amp; Thought
 ,,,,,,,,,,NEHC 20772 Ancient Economies from Mesopotamia to Rome
 ,,,,,,,,,,"NEHC 20840 Radical Islamic Pieties, 1200 to 1600"
@@ -1416,9 +1419,6 @@ Useless,Environmental Studies,The Eternal Now,USSR,Platonic,Biopower,Deadpan,far
 ,,,,,,,,,,NEHC 29700 Reading and Research Course
 ,,,,,,,,,,NEHC 29800 BA Paper Seminar
 ,,,,,,,,,,NEHC 29999 BA Paper Preparation
-,,,,,,,,,,NEHC 20089 Muhammad and Ahmad al-Ghazali
-,,,,,,,,,,NEHC 20502 Islamic History and Society II: The Middle Period
-,,,,,,,,,,NEHC 20766 Shamans and Oral Poets of Central Asia
 ,,,,,,,,,,NELG 29700 Reading and Research Course: Near Eastern Languages
 ,,,,,,,,,,NELG 30301 Introduction to Comparative Semitics
 ,,,,,,,,,,NORW 10400 Intermediate Norwegian I: Introduction to Literature
@@ -1468,14 +1468,14 @@ Useless,Environmental Studies,The Eternal Now,USSR,Platonic,Biopower,Deadpan,far
 ,,,,,,,,,,PERS 20103 Intermediate Persian III
 ,,,,,,,,,,PERS 30220 Poetics/Politics of Modern Iran
 ,,,,,,,,,,PERS 30324 Muthnavi or Rumi-1
+,,,,,,,,,,PERS 30324 Muthnavi or Rumi-1
 ,,,,,,,,,,PERS 30325 Muthnavi of Rumi-2
+,,,,,,,,,,PERS 30325 Muthnavi of Rumi-2
 ,,,,,,,,,,PERS 30349 Shi 'a Poetry
 ,,,,,,,,,,"PERS 30350 Persian Poetry: Minor Genres, History of the Rubaiyat"
 ,,,,,,,,,,PERS 30361 Samak-e 'Ayyar
-,,,,,,,,,,PERS 30851 Introduction to Old Persian
-,,,,,,,,,,PERS 30324 Muthnavi or Rumi-1
-,,,,,,,,,,PERS 30325 Muthnavi of Rumi-2
 ,,,,,,,,,,PERS 30361 Samak-e 'Ayyar
+,,,,,,,,,,PERS 30851 Introduction to Old Persian
 ,,,,,,,,,,PHIL 20100 Elementary Logic
 ,,,,,,,,,,PHIL 20118 Wittgenstein's Tractatus Logico-Philosophicus
 ,,,,,,,,,,PHIL 20305 Foundations of Probability: A Historical Approach
@@ -1644,7 +1644,9 @@ Useless,Environmental Studies,The Eternal Now,USSR,Platonic,Biopower,Deadpan,far
 ,,,,,,,,,,RLST 20403 Islamic Thought and Literature III
 ,,,,,,,,,,RLST 20501 Islamic History and Society I: Rise of Islam and the Caliphate
 ,,,,,,,,,,RLST 20603 Medieval Commentaries on Psalms
+,,,,,,,,,,RLST 20603 Medieval Commentaries on Psalms
 ,,,,,,,,,,RLST 20700 Medieval Women's Religious Writing
+,,,,,,,,,,RLST 20700 Medieval Women's Religious Writing
 ,,,,,,,,,,RLST 20801 Introduction to Islamic Law
 ,,,,,,,,,,RLST 21003 Evangelicism in America
 ,,,,,,,,,,RLST 22111 Mary and Mariology
@@ -1656,6 +1658,7 @@ Useless,Environmental Studies,The Eternal Now,USSR,Platonic,Biopower,Deadpan,far
 ,,,,,,,,,,RLST 24304 Immanuel Kant's Critique of Practical Reason
 ,,,,,,,,,,RLST 24601 Martin and Malcolm: Life and Belief
 ,,,,,,,,,,RLST 24904 Mysticism and Christianity
+,,,,,,,,,,RLST 24904 Mysticism and Christianity
 ,,,,,,,,,,RLST 26800 The Mahabharata in English Translation
 ,,,,,,,,,,"RLST 27304 Religion, Sex, Politics and Release in Ancient India: The Kamasutra and the Arthashastra"
 ,,,,,,,,,,RLST 27604 Religion and Gender
@@ -1665,26 +1668,23 @@ Useless,Environmental Studies,The Eternal Now,USSR,Platonic,Biopower,Deadpan,far
 ,,,,,,,,,,RLST 29700 Reading and Research Course
 ,,,,,,,,,,RLST 29800 BA Paper Seminar
 ,,,,,,,,,,RLST 29900 BA Paper
-,,,,,,,,,,RLST 20603 Medieval Commentaries on Psalms
-,,,,,,,,,,RLST 20700 Medieval Women's Religious Writing
-,,,,,,,,,,RLST 24904 Mysticism and Christianity
 ,,,,,,,,,,RUSS 21600 Russian for Heritage Learners
+,,,,,,,,,,RUSS 21600 Russian for Heritage Learners
 ,,,,,,,,,,RUSS 23000 Structure of Russian Phonology
 ,,,,,,,,,,RUSS 23100 Morphology of Russian
 ,,,,,,,,,,RUSS 23900 Lolita
-,,,,,,,,,,RUSS 25500 Russian Literature from Classicism to Romanticism
-,,,,,,,,,,RUSS 25600 Realism in Russia
-,,,,,,,,,,RUSS 25700 Russian Literature from Modernism to Post-Modernism
-,,,,,,,,,,RUSS 26200 The Soviet Visual Experience
-,,,,,,,,,,RUSS 26500 Symbolism and Cinema
-,,,,,,,,,,RUSS 27505 Dostoevsky's Crime and Punishment
-,,,,,,,,,,RUSS 21600 Russian for Heritage Learners
 ,,,,,,,,,,RUSS 23900 Lolita
+,,,,,,,,,,RUSS 25500 Russian Literature from Classicism to Romanticism
 ,,,,,,,,,,RUSS 25500 Russian Literature from Classicism to Romanticism
+,,,,,,,,,,RUSS 25600 Realism in Russia
 ,,,,,,,,,,RUSS 25600 Realism in Russia
+,,,,,,,,,,RUSS 25700 Russian Literature from Modernism to Post-Modernism
 ,,,,,,,,,,RUSS 25700 Russian Literature from Modernism to Post-Modernism
+,,,,,,,,,,RUSS 26200 The Soviet Visual Experience
 ,,,,,,,,,,RUSS 26200 The Soviet Visual Experience
+,,,,,,,,,,RUSS 26500 Symbolism and Cinema
 ,,,,,,,,,,RUSS 26500 Symbolism and Cinema
+,,,,,,,,,,RUSS 27505 Dostoevsky's Crime and Punishment
 ,,,,,,,,,,SALC 20400 Mahabharata in English Translation
 ,,,,,,,,,,SALC 20507 Indian Cinema: An Introduction
 ,,,,,,,,,,SALC 20605 Reading Panjabi
@@ -1715,13 +1715,13 @@ Useless,Environmental Studies,The Eternal Now,USSR,Platonic,Biopower,Deadpan,far
 ,,,,,,,,,,SALC 42501 Many Ramayanas
 ,,,,,,,,,,SLAV 20100 Introduction to Slavic Linguistics
 ,,,,,,,,,,SLAV 22000 Old Church Slavonic
+,,,,,,,,,,SLAV 22000 Old Church Slavonic
 ,,,,,,,,,,SLAV 23000 Language/Power/Identity In SouthEast Europe
 ,,,,,,,,,,SLAV 24100 Comparative West Slavic Linguistics
 ,,,,,,,,,,SLAV 25900 Word and Image: Reassessing Interdisciplinarity
+,,,,,,,,,,SLAV 25900 Word and Image: Reassessing Interdisciplinarity
 ,,,,,,,,,,SLAV 27200 Modern Central European Novel
 ,,,,,,,,,,SLAV 28600 Kitsch
-,,,,,,,,,,SLAV 22000 Old Church Slavonic
-,,,,,,,,,,SLAV 25900 Word and Image: Reassessing Interdisciplinarity
 ,,,,,,,,,,SOCI 20001 Sociological Methods
 ,,,,,,,,,,SOCI 20002 Social Structure and Change
 ,,,,,,,,,,SOCI 20004 Statistical Methods of Research
@@ -1776,12 +1776,12 @@ Useless,Environmental Studies,The Eternal Now,USSR,Platonic,Biopower,Deadpan,far
 ,,,,,,,,,,SOSC 29900 BA Paper in Russian Civilization
 ,,,,,,,,,,SOSC 39000 Anthropology of Disability
 ,,,,,,,,,,SOSL 26800 Balkan Folklore
+,,,,,,,,,,SOSL 26800 Balkan Folklore
 ,,,,,,,,,,SOSL 27400 Magic Realist and Fantastic Writings from the Balkans
 ,,,,,,,,,,SOSL 27600 Cinema from the Balkans
 ,,,,,,,,,,SOSL 27610 Gender in the Balkans through Literature and Film
 ,,,,,,,,,,SOSL 29700 Reading and Research Course
 ,,,,,,,,,,SOSL 29900 BA Paper
-,,,,,,,,,,SOSL 26800 Balkan Folklore
 ,,,,,,,,,,SPAN 10201 Continuing Elementary Spanish
 ,,,,,,,,,,SPAN 20400 Curso de redacción académica
 ,,,,,,,,,,SPAN 20402 Curso de redacción académica para hablantes nativos
@@ -1916,55 +1916,55 @@ Useless,Environmental Studies,The Eternal Now,USSR,Platonic,Biopower,Deadpan,far
 ,,,,,,,,,,TAPS 29200 Advanced Study: Dance
 ,,,,,,,,,,TAPS 29600 Advanced Study: General
 ,,,,,,,,,,TAPS 29800 Theater and Performance Studies BA Colloquium
-,,,,,,,,,,TURK 10101 Elementary Turkish I
-,,,,,,,,,,TURK 10102 Elementary Turkish II
-,,,,,,,,,,TURK 10103 Elementary Turkish III
-,,,,,,,,,,TURK 10105 Introduction to Old Turkic
-,,,,,,,,,,TURK 10106 Introduction to Old Turkic-2
-,,,,,,,,,,TURK 10107 Introduction to Old Turkic-3
-,,,,,,,,,,TURK 20101 Intermediate Turkish I
-,,,,,,,,,,TURK 20102 Intermediate Turkish II
-,,,,,,,,,,TURK 20103 Intermediate Turkish III
-,,,,,,,,,,TURK 30101 Advanced Turkish-1
-,,,,,,,,,,TURK 30102 Advanced Turkish-2
-,,,,,,,,,,TURK 30103 Advanced Turkish-3
-,,,,,,,,,,TURK 30501 Ottoman Turkish I
-,,,,,,,,,,TURK 30502 Ottoman Turkish II
-,,,,,,,,,,TURK 30503 Ottoman Turkish III
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,UGAR 20101 Ugaritic I
 ,,,,,,,,,,UGAR 20101 Ugaritic I
 ,,,,,,,,,,UGAR 20102 Ugaritic II
+,,,,,,,,,,UGAR 20102 Ugaritic II
+,,,,,,,,,,UGAR 20103 Ugaritic III
 ,,,,,,,,,,UGAR 20103 Ugaritic III
 ,,,,,,,,,,UZBK 10101 Elementary Modern Literary Uzbek I
+,,,,,,,,,,UZBK 10101 Elementary Modern Literary Uzbek I
+,,,,,,,,,,UZBK 10102 Elementary Modern Literary Uzbek II
 ,,,,,,,,,,UZBK 10102 Elementary Modern Literary Uzbek II
 ,,,,,,,,,,UZBK 10103 Elementary Modern Literary Uzbek III
+,,,,,,,,,,UZBK 10103 Elementary Modern Literary Uzbek III
+,,,,,,,,,,UZBK 20101 Intermediate Modern Literary Uzbek I
 ,,,,,,,,,,UZBK 20101 Intermediate Modern Literary Uzbek I
 ,,,,,,,,,,UZBK 20102 Intermediate Modern Literary Uzbek II
+,,,,,,,,,,UZBK 20102 Intermediate Modern Literary Uzbek II
+,,,,,,,,,,UZBK 20103 Intermediate Modern Literary Uzbek III
 ,,,,,,,,,,UZBK 20103 Intermediate Modern Literary Uzbek III
 ,,,,,,,,,,UZBK 30101 Advanced Modern Literary Uzbek I
+,,,,,,,,,,UZBK 30101 Advanced Modern Literary Uzbek I
+,,,,,,,,,,UZBK 30102 Advanced Modern Literary Uzbek II
 ,,,,,,,,,,UZBK 30102 Advanced Modern Literary Uzbek II
 ,,,,,,,,,,UZBK 30103 Advanced Modern Literary Uzbek III
-,,,,,,,,,,TURK 10103 Elementary Turkish III
-,,,,,,,,,,TURK 10105 Introduction to Old Turkic
-,,,,,,,,,,TURK 10106 Introduction to Old Turkic-2
-,,,,,,,,,,TURK 10107 Introduction to Old Turkic-3
-,,,,,,,,,,TURK 20101 Intermediate Turkish I
-,,,,,,,,,,TURK 20102 Intermediate Turkish II
-,,,,,,,,,,TURK 20103 Intermediate Turkish III
-,,,,,,,,,,TURK 30101 Advanced Turkish-1
-,,,,,,,,,,TURK 30102 Advanced Turkish-2
-,,,,,,,,,,TURK 30103 Advanced Turkish-3
-,,,,,,,,,,TURK 30501 Ottoman Turkish I
-,,,,,,,,,,TURK 30502 Ottoman Turkish II
-,,,,,,,,,,TURK 30503 Ottoman Turkish III
-,,,,,,,,,,UGAR 20101 Ugaritic I
-,,,,,,,,,,UGAR 20102 Ugaritic II
-,,,,,,,,,,UGAR 20103 Ugaritic III
-,,,,,,,,,,UZBK 10101 Elementary Modern Literary Uzbek I
-,,,,,,,,,,UZBK 10102 Elementary Modern Literary Uzbek II
-,,,,,,,,,,UZBK 10103 Elementary Modern Literary Uzbek III
-,,,,,,,,,,UZBK 20101 Intermediate Modern Literary Uzbek I
-,,,,,,,,,,UZBK 20102 Intermediate Modern Literary Uzbek II
-,,,,,,,,,,UZBK 20103 Intermediate Modern Literary Uzbek III
-,,,,,,,,,,UZBK 30101 Advanced Modern Literary Uzbek I
-,,,,,,,,,,UZBK 30102 Advanced Modern Literary Uzbek II
 ,,,,,,,,,,UZBK 30103 Advanced Modern Literary Uzbek III
