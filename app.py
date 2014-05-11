@@ -5,6 +5,7 @@ import json
 import os
 import csv
 import random
+
 app = Flask(__name__)
 app.config['SQLALCHEMY_DATABASE_URI'] = os.environ['DATABASE_URL']
 db = SQLAlchemy(app)
@@ -142,7 +143,7 @@ def random_cat():
 def random_professor():
     professor = {}
     professor['adj'] = fetch_random(ProfessorAdjective)
-    professor['act'] = fetch_random(ProfessorAdjective)
+    professor['act'] = fetch_random(ProfessorActivity)
     return professor    
 
 def random_audience():
@@ -160,10 +161,13 @@ def random_class():
 
 def load_course_data():
     import codecs
-    lines = [line.strip() for line in codecs.open('./data/class-names.txt','r','utf-8')]
-    for line in lines: 
+    lines = codecs.open('./data/class-names.txt','r','utf-8')
+    print "after lines"
+    print lines
+    for line in lines:
         class_name = ClassListing(line)
         db.session.add(class_name)
+        print class_name
     db.session.commit()
 
 def load_desc_data():
@@ -202,11 +206,13 @@ def load_desc_data():
 ### FLASK ROUTES ### 
 # FINALLY # 
 
+
 @app.route('/random/', methods=['GET'])
 def random_set():
     data = {}
     data['cat'] = random_cat()
-    
+    data['class'] = random_class()
+    data['prof'] = random_professor()
     resp = make_response(json.dumps(data))
     resp.headers['Content-Type'] = 'application/json'
     return resp
@@ -214,6 +220,7 @@ def random_set():
 @app.route('/load/', methods=['GET', 'POST'])
 def load():
     db.create_all()
+    print "tester"
     load_course_data()
     load_desc_data()
     return make_response('Loaded the Data')
