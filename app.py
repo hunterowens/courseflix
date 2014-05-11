@@ -227,5 +227,8 @@ def drop():
     db.drop_all()
     return make_response('data dropped')
 
+@app.route('/')
+def index():
+    return render_template('index.html',resp=random_set())
 if __name__ == "__main__":
     app.run(debug=True)

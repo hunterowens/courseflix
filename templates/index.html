@@ -1,6 +1,5 @@
 {% extends "base.html" %}
-{% block javascript %}
-    <script type="application/javascript" src="{{ url_for('static', filename='js/ejs_production.js') }}"></script>
-    <script type="application/javascript" src="{{ url_for('static', filename='js/markdown.min.js') }}"></script>
-    <script type="application/javascript" src="{{ url_for('static', filename='js/tacos.js') }}"></script>
-{% endblock %}
+
+<%block body>
+  <p>Like {{ resp.cat.adj }}</p>
+<%endblock>
