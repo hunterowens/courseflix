@@ -162,38 +162,53 @@ def random_class():
 def load_desc_data():
     import csv
     data = csv.DictReader(open('data/course_desc.csv'))
-    for row in data:
-        if row['Adjectives']:
-            adj = Adjective(row['Adjectives'])
-            db.session.add(adj)
-        if row['Time Period']:
-            time = TimePeriod(row['Time Period'])
-            db.session.add(time)
-        if row['Region']:
-            region = Region(row['Region'])
-            db.session.add(region)
-        if row['About (Buzzword)']:
-            buzzword = DescriptionBuzzword(row['About (Buzzword)'])
-            db.session.add(buzzword)
-        if row['About']:
-            reality = DescriptionReality(row['About'])
-            db.session.add(reality)
-        if row['Professor Adjective']:
-            prof_adj = ProfessorAdjective(row['Professor Adjective'])
-            db.session.add(prof_adj)
-        if row['Who']:
-            prof_desc = ProfessorActivity(row['Who'])
-            db.session.add(prof_desc)
-        if row['For']:
-            audiences_stero = AudienceSterotype(row['For'])
-            db.session.add(audiences_stero)
-        if row['Other']:
-            audience_desc = AudienceDescription(row['Other'])
-            db.session.add(audience_desc)
-        if row['Class']:
-            class_name = ClassListing(row['Class'].decode('utf-8'))
-            db.session.add(class_name)
-    db.session.commit()
+    try:
+        for row in data:
+            if row['Adjectives']:
+                adj = Adjective(row['Adjectives'])
+                db.session.add(adj)
+                db.session.commit()
+            if row['Time Period']:
+                time = TimePeriod(row['Time Period'])
+                db.session.add(time)
+                db.session.commit()
+            if row['Region']:
+                region = Region(row['Region'])
+                db.session.add(region)
+                db.session.commit()
+            if row['About (Buzzword)']:
+                buzzword = DescriptionBuzzword(row['About (Buzzword)'])
+                db.session.add(buzzword)
+                db.session.commit()
+            if row['About']:
+                reality = DescriptionReality(row['About'])
+                db.session.add(reality)
+                db.session.commit()
+            if row['Professor Adjective']:
+                prof_adj = ProfessorAdjective(row['Professor Adjective'])
+                db.session.add(prof_adj)
+                db.session.commit()
+            if row['Who']:
+                prof_desc = ProfessorActivity(row['Who'])
+                db.session.add(prof_desc)
+                db.session.commit()
+            if row['For']:
+                audiences_stero = AudienceSterotype(row['For'])
+                db.session.add(audiences_stero)
+                db.session.commit()
+            if row['Other']:
+                audience_desc = AudienceDescription(row['Other'])
+                db.session.add(audience_desc)
+                db.session.commit()
+            if row['Class']:
+                class_name = ClassListing(row['Class'].decode('utf-8'))
+                db.session.add(class_name)
+                db.session.commit()
+        db.session.commit()
+    except:
+        print "error occured"
+        pass
+
 
 ### FLASK ROUTES ### 
 # FINALLY # 
