@@ -36,7 +36,13 @@
         <h1></h1>
         <p class="lead"><strong>Courseflix:</strong> The Only Class Recomendation Service you will ever need. </p>
         <hr>
-          <h1> Hello, {{ resp.adj }} </h1>
+          <h3> Like {{ cat.adj }} {{ cat.buzzword }} classes with {{ cat.reality }} set in {{ cat.time }} {{ cat.region }} taught by a {{ prof.adj }} professor who {{ prof.act }} ?</h3>
+          <br>
+          You Should Take
+          <ul> 
+            <li> {{ class_one.name }}</li>
+            <li> {{ class_two.name }}</li>
+          </ul>
         <hr>
         <p><a class="btn btn-lg btn-success" href="./" role="button">Give me Another Rec</a></p>
       </div>
@@ -53,7 +59,7 @@
           m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
           })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
 
-          ga('create', 'UA-45472727-1', 'taco-randomizer.herokuapp.com');
+          ga('create', 'UA-45472727-1', 'courseflix.herokuapp.com');
           ga('send', 'pageview');
         </script>
     </body>
