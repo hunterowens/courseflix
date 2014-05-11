@@ -159,17 +159,6 @@ def random_class():
 
 ##### DATA LOADING #### 
 
-def load_course_data():
-    import codecs
-    lines = codecs.open('./data/class-names.txt','r','utf-8')
-    print "after lines"
-    print lines
-    for line in lines:
-        class_name = ClassListing(line)
-        db.session.add(class_name)
-        print class_name
-    db.session.commit()
-
 def load_desc_data():
     import csv
     data = csv.DictReader(open('data/course_desc.csv'))
@@ -201,6 +190,9 @@ def load_desc_data():
         if row['Other']:
             audience_desc = AudienceDescription(row['Other'])
             db.session.add(audience_desc)
+        if row['Class']:
+            class_name = ClassListing(row['Class'])
+            db.session.add(class_name)
     db.session.commit()
 
 ### FLASK ROUTES ### 
@@ -220,8 +212,6 @@ def random_set():
 @app.route('/load/', methods=['GET', 'POST'])
 def load():
     db.create_all()
-    print "tester"
-    load_course_data()
     load_desc_data()
     return make_response('Loaded the Data')
 
