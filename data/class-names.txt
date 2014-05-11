@@ -1,0 +1,1968 @@
+AANL 10101 Elementary Hittite I
+AANL 10102 Elementary Hittite II
+AANL 10103 Elementary Hittite III
+AKKD 10101 Elementary Akkadian I
+AKKD 10102 Elementary Akkadian II
+AKKD 10103 Elementary Akkadian III
+AKKD 20345 Topics in Old Babylonian Family Law
+AKKD 20362 Middle Assyrian Texts
+AKKD 30313 Akkadian Historical Texts
+AKKD 30314 Akkadian Wisdom Literature
+AKKD 30342 Old Babylonian Legal Texts
+ANTH 20100 The Inka and Aztec States
+ANTH 20405 Anthropology of Disability
+ANTH 20535 The Social Life of Clean Energy
+ANTH 21015 Media, Culture, and Society
+ANTH 21102 Classical Readings in Anthropology: History and Theory of Human  Evolution
+ANTH 21107 Classical Readings in Anthropology: Anthropological Theory
+ANTH 21201 Intensive Study of a Culture: Chicago Blues
+ANTH 21217 Intensive Study of a Culture: The Luo of Kenya
+ANTH 21225 Intensive Study of a Culture: Louisiana
+ANTH 21230 Intensive Study of a Culture: Lowland Maya History and Ethnography
+ANTH 21251 Intensive Study of a Culture: Modern China
+ANTH 21254 Intensive Study of a Culture: Pirates
+ANTH 21255 Intensive Study of a Culture: The Senegambia
+ANTH 21264 Intensive Study of a Culture: Political Struggles of Highland Asia
+ANTH 21265 Intensive Study of a Culture, Celts: Ancient, Modern, and Postmodern
+ANTH 21303 Making the Natural World: Foundations of Human Ecology
+ANTH 21307 Modern Readings in Anthropology: History, Ethnohistory, and  Archaeology
+ANTH 21401 Practice of Anthropology: Logic and Practice of Archaeology
+ANTH 21406 The Practice of Anthropology: Celebrity and Science in  Paleoanthropology
+ANTH 21420 The Practice of Anthropology: Ethnographic Methods
+ANTH 22000 The Anthropology of Development
+ANTH 22105 The Anthropology of Science
+ANTH 22123 Science Studies III: Information Age
+ANTH 22125 Introduction to Science Studies
+ANTH 22130 Anthropology of the Machine
+ANTH 22205 Slavery and Unfree Labor
+ANTH 22400 Big Science and the Birth of the National Security State
+ANTH 22530 Ethnographic Film
+ANTH 22710 Signs and the State
+ANTH 22715 Weber, Bakhtin, Benjamin
+ANTH 22910 Performance and Politics in India
+ANTH 23600 Medicine and Society in Twentieth-Century China
+ANTH 23715 Self-Determination: Theory and Reality
+ANTH 23805 Nature/Culture
+ANTH 24300 Medicine and Culture
+ANTH 24320 Cultural Psychology
+ANTH 24325 Love, Conjugality, and Capital: Intimacy in the Modern World
+ANTH 24800 Uncanny Modernities
+ANTH 24805 From the Transhuman to the Postsocial
+ANTH 25125 Emotions and Culture: Paradigms of Empirical and Theoretical Analysis
+ANTH 25200 Approaches to Gender in Anthropology
+ANTH 25305 Anthropology of Food and Cuisine
+ANTH 25401 Consumption
+ANTH 25410 Anthropology of Everyday Life
+ANTH 25500 Cultural Politics of Contemporary India
+ANTH 25510 Afterlives of Gandhi
+ANTH 25710 Global Society and Global Culture: Paradigms of Social and Cultural  Analysis
+ANTH 25900 South Asia Before the Buddha
+ANTH 25905 Introduction to the Musical Folklore of Central Asia
+ANTH 25906 Shamans and Oral Poets of Central Asia
+ANTH 26020 Archaeology of Modernity
+ANTH 26505 Non-Industrial Agriculture
+ANTH 26715 The Rise of the State in the Near East
+ANTH 26830 Archaeology of Religious Experience
+ANTH 26900 Archaeological Data Sets
+ANTH 27130 America: Society, Polity, and Speech Community
+ANTH 27505 Professional Persuasions: The Rhetoric of Expertise in Modern Life
+ANTH 27510 The Politics of Translation
+ANTH 27605 Language, Culture, and Thought
+ANTH 27700 Romani Language and Linguistics
+ANTH 28010 Introduction to Biological Anthropology
+ANTH 28100 Evolution of the Hominoidea
+ANTH 28210 Colonial Ecologies
+ANTH 28300 Comparative Primate Morphology
+ANTH 28400 Bioarchaeology and the Human Skeleton
+ANTH 28410 Zooarchaeology
+ANTH 28510 Anthropology of Space/Place
+ANTH 28600 Apes and Human Evolution
+ANTH 29105 Pollen Analysis
+ANTH 29500 Archaeology Laboratory Practicum
+ANTH 29700 Readings in Anthropology
+ANTH 29900 Preparation of Bachelor's Essay
+ANTH 29910 Bachelor's Essay Seminar
+ANTH 30415 American Legal Culture
+ANTH 34814 Anthropology and Literature: World Poetry
+ANTH 36200 Ceramic Analysis for Archaeologists
+ANTH 36700 Archaeology of Race and Ethnicity
+ANTH 37500 Morphology
+ANTH 39205 Landscape History and Place-Making
+ARAB 10101 Elementary Arabic I
+ARAB 10102 Elementary Arabic II
+ARAB 10103 Elementary Arabic III
+ARAB 10254 Colloquial Arabic
+ARAB 20101 Intermediate Arabic I
+ARAB 20102 Intermediate Arabic II
+ARAB 20103 Intermediate Arabic III
+ARAB 20390 Arabic in Social Context
+ARAB 20590 Arabic in al-Andalus
+ARAB 30201 High Intermediate Modern Standard Arabic I
+ARAB 30202 High Intermediate Modern  Standard Arabic II
+ARAB 30203 High Intermediate Modern Standard Arabic-III
+ARAB 30301 High Intermediate Classical Arabic I
+ARAB 30302 High Intermediate Classical Arabic II
+ARAB 30303 High Intermediate Classical Arabic III
+ARAB 30381 Introduction to Arabic Poetry
+ARAB 40101 Advanced Arabic Syntax I
+ARAB 40102 Advanced Arabic Syntax II
+ARAB 30349 Shi 'a Poetry
+ARAB 30349 Shi 'a Poetry
+ARAM 10101 Biblical Aramaic
+ARAM 10102 Old Aramaic Inscriptions
+ARAM 10103 Imperial Aramaic
+ARAM 10401 Elementary Syriac I
+ARAM 10402 Elementary Syriac II
+ARAM 10403 Elementary Syriac III
+ARME 10101 Elementary Modern Armenian I
+ARME 10102 Elementary Modern Armenian II
+ARME 10103 Elementary Modern Armenian III
+ARME 10501 Introduction to Classical Armenian
+ARME 20101 Intermediate Modern Armenian I
+ARME 20102 Intermediate Modern Armenian II
+ARME 20103 Intermediate Modern Armenian III
+ARTH 10100 Introduction to Art
+ARTH 14107 Greek Art and Archaeology
+ARTH 14200 From Missionary Images to Image Explosion: Introduction to Medieval Art
+ARTH 14200 From Missionary Images to Image Explosion: Introduction to Medieval Art
+ARTH 14211 Introduction to African Art
+ARTH 14400 Italian Renaissance Art
+ARTH 15510 The Visual Arts in American Culture, 1830–1945
+ARTH 15600 Twentieth-Century Art
+ARTH 15610 Imitation of Life: Art in the Twentieth Century
+ARTH 16800 Art of Asia: Japan
+ARTH 17107 Chinese Calligraphy and Civilization
+ARTH 17200 Nineteenth-Century Art in the Art Institute
+ARTH 17207 Image and Word in Chinese Art
+ARTH 17211 Arts of Medieval Japan
+ARTH 17211 Arts of Medieval Japan
+ARTH 17400 University of Chicago Campus
+ARTH 17410 Frank Lloyd Wright in Chicago and Beyond
+ARTH 17710 Sinotopos: Chinese Landscape Representation and Interpretation
+ARTH 17711 Art in the Conquest of the Americas
+ARTH 17800 Leonardo and Michelangelo: Their Art in Context
+ARTH 17811 Art Now
+ARTH 17903 1900 in the Smart Museum
+ARTH 18000 Photography and Film
+ARTH 18100 The Image of Space
+ARTH 18305 New Art in Chicago Museums and Other Spaces
+ARTH 22609 Skills and Methods in Chinese Painting History
+ARTH 23700 Raphael and the High Renaissance
+ARTH 24710 Japan and the World in 19th Century Art
+ARTH 24811 From the Abject to the Sublime: The Body in Medieval Art and Visual Culture
+ARTH 24811 From the Abject to the Sublime: The Body in Medieval Art and Visual Culture
+ARTH 24812 Museums and Art
+ARTH 26400 The History of Photography in America
+ARTH 26409 Photography and American Cultural Memory
+ARTH 26600 Early 20th-Century Urban Visions
+ARTH 26611 Abstraction
+ARTH 26612 Circa 1650: Art in a Global Age
+ARTH 26711 Florentine Topographies:  Art, Architecture, and Urban Life in the Italian Renaissance City
+ARTH 26712 Wassily Kandinsky: Artist, Designer, Writer, Teacher
+ARTH 27509 Reading Artists Writing
+ARTH 28712 Histories of Collage
+ARTH 29600 Junior Seminar: Doing Art History
+ARTH 29700 Reading Course
+ARTH 29800 Senior Seminar: Writing Workshop
+ARTH 29900 Preparation for the Senior Paper
+ARTV 10100 Visual Language: On Images
+ARTV 10200 Visual Language: On Objects
+ARTV 10300 Visual Language: On Time and Space
+ARTV 15000 Art Practice and Theory
+ARTV 21001 Figure Drawing: Trans/Figuration
+ARTV 21900 Color Theory and Practice
+ARTV 22200 Introduction to Sculpture
+ARTV 22300 Sculpture
+ARTV 22501 Digital Imaging
+ARTV 22502 Data and Algorithm in Art
+ARTV 23804 Experimental Animation
+ARTV 23850 Introduction to Film Production
+ARTV 23930 Documentary Production I
+ARTV 23931 Documentary Production II
+ARTV 24000 Introduction to Black and White Film Photography
+ARTV 24115 Performance Installation I
+ARTV 24116 Performance Installation II
+ARTV 24201 Collage
+ARTV 24202 Art and Everyday Materials
+ARTV 24301 Writing for Performance
+ARTV 24550 Shopcraft: Methods and Materials
+ARTV 24703 Mixed-Media Drawing
+ARTV 24704 Large-Scale Drawing
+ARTV 24705 Drawing from Life, Culture, and Thought
+ARTV 24800 Foucault and The History of Sexuality
+ARTV 25300 Introduction to Film Analysis
+ARTV 25400 Theories of Media
+ARTV 26000 Introduction to Stage Design
+ARTV 26210 Food for Thought
+ARTV 26212 Embedded
+ARTV 26213 Hauntology: Ghosts, Specters and Other Paranormal Phenomena in Contemporary Art and Beyond
+ARTV 26300 The History of Photography in America
+ARTV 26500 History of International Cinema I: Silent Era
+ARTV 26600 History of International Cinema II: Sound Era to 1960
+ARTV 26750 Chicago Film History
+ARTV 27200 Painting
+ARTV 27201 Seminar/Independent Projects: Issues in Contemporary Painting
+ARTV 29600 Junior Seminar
+ARTV 29700 Independent Study in Visual Arts
+ARTV 29850 Senior Seminar
+ARTV 29900 Senior Project
+BIOS 00199 Undergraduate Research
+BIOS 00206 Readings: Biology
+BIOS 00298 Undergraduate Research Seminar
+BIOS 00299 Adv Rsch: Biological Sciences
+BIOS 02490 Biology and Sociology of AIDS
+BIOS 10130 Core Biology 2010
+BIOS 10450 Pharmacological Perspectives in Cell and Molecular Biology
+BIOS 10451 Pharmacological Perspectives II
+BIOS 10500 Metabolism and Exercise
+BIOS 10501 Metabolism and Nutrition
+BIOS 10600 The Structure of Life: Information, Shape, and Dynamics
+BIOS 10601 The Numbers on Drugs: A Quantitative Introduction to Pharmacology
+BIOS 11119 The Biology of Gender
+BIOS 11125 Life through a Genomic Lens
+BIOS 11128 Introduction to Human Genetics
+BIOS 11129 Human Use and Abuse of Biological Molecules
+BIOS 11131 Topics in Biotechnology
+BIOS 12107 Cell Biology of Physiological Stress
+BIOS 12114 Nutritional Science
+BIOS 12115 Responses of Cardiopulmonary System to Stress
+BIOS 12116 The Human Body in Health and Disease
+BIOS 12118 The Descent of Man: Human Health across the Ages
+BIOS 13107 Environmental Ecology
+BIOS 13109 Ecology
+BIOS 13111 Natural History of North American Deserts
+BIOS 13112 Natural History of North American Deserts: Field School
+BIOS 13113 Prairie Ecosystems: Lessons of Sustainability in the Past, Present, and Future
+BIOS 13115 From So Simple a Beginning: Evolution
+BIOS 13125 Ecology and the Environment
+BIOS 13126 Tropical Ecology: Biodiversity and Human Impacts
+BIOS 13127 Evolution and Intelligent Design
+BIOS 13128 Plant-Animal Interactions
+BIOS 13129 Environmental Science: A Microbiology Toolkit for the Modern Age
+BIOS 13140 The Public and Private Lives of Insects
+BIOS 14107 Workings of the Human Brain
+BIOS 14112 Workings of the Human Brain:  From Brain to Behavior
+BIOS 14114 Drugs Galore:  What They Are and What They Do To You
+BIOS 15106 Plagues: Past and Present
+BIOS 15109 The Origins of Cancer
+BIOS 15112 Biological Poisons and Toxins
+BIOS 15114 Eliminating Infectious Disease
+BIOS 15115 Cancer Biology: How Good Cells Go Bad
+BIOS 15119 Immunology: Light and Tasty
+BIOS 20150 A Serious Introduction to Biology for Majors: From LUCA to the University of Chicago
+BIOS 20151 Introduction to Quantitative Modeling in Biology
+BIOS 20170 Human Cell Biology
+BIOS 20171 Human Genetics and Developmental Biology
+BIOS 20172 Mathematical Modeling for Pre-Med Students I
+BIOS 20173 Human Physiology
+BIOS 20174 Mathematical Modeling for Pre-med Students II
+BIOS 20175 Biochemistry and Nutrition
+BIOS 20186 Fundamentals of Cell and Molecular Biology
+BIOS 20187 Fundamentals of Genetics
+BIOS 20188 Fundamentals of Physiology
+BIOS 20189 Fundamentals of Developmental Biology
+BIOS 20196 Ecology and Conservation
+BIOS 20197 Evolution and Ecology
+BIOS 20198 Biodiversity
+BIOS 20200 Introduction to Biochemistry
+BIOS 20242 Principles of Physiology
+BIOS 20243 From Neurons to Behavior: The Morphological and Physiological Basis of Movement
+BIOS 20246 Photons to Consciousness
+BIOS 20249 Genome Informatics: Genome Organization, Expression, and Transmission
+BIOS 20256 Developmental Genetics and Evolution
+BIOS 20258 From Atomic Coordinate to Protein Function
+BIOS 20260 Chordate Evolutionary Biology
+BIOS 21206 Human Evolution and Disease
+BIOS 21207 Cell Biology
+BIOS 21208 Fundamentals of Molecular Biology
+BIOS 21216 Introductory Statistical Genetics
+BIOS 21229 Genome Informatics: How Cells Reorganize Genomes
+BIOS 21236 Genetics of Model Organisms
+BIOS 21237 Developmental Mechanisms
+BIOS 21306 Human Genetics and Evolution
+BIOS 21317 Topics in Biological Chemistry
+BIOS 21328 Biophysics of Biomolecules
+BIOS 21329 Protein Post-Translational Modifications
+BIOS 21338 Epithelial Cell Biology
+BIOS 21356 Vertebrate Developmental Biology
+BIOS 21357 Extracellular Matrices: Chemistry and Biology
+BIOS 21358 Simulation, Modeling, and Computation in Biophysics
+BIOS 21407 Image Processing in Biology
+BIOS 22222 Exercise Physiology
+BIOS 22226 Human Developmental Biology
+BIOS 22233 Comparative Vertebrate Anatomy
+BIOS 22242 Biological Fluid Mechanics
+BIOS 22243 Biomechanics of Organisms
+BIOS 22244 Introduction to Invertebrate Biology
+BIOS 22247 Principles of Pharmacology
+BIOS 22249 Principles of Toxicology
+BIOS 22260 Vertebrate Structure and Function
+BIOS 23100 Dinosaur Science
+BIOS 23232 Ecology and Evolution in the Southwest
+BIOS 23233 Ecology and Evolution in the Southwest: Field School
+BIOS 23241 Primate Evolution
+BIOS 23247 Bioarchaeology and the Human Skeleton
+BIOS 23248 Primate Behavior and Ecology
+BIOS 23249 Animal Behavior
+BIOS 23252 Field Ecology
+BIOS 23253 Apes and Human Evolution
+BIOS 23254 Mammalian Ecology
+BIOS 23255 Principles of Paleontology
+BIOS 23258 Molecular Evolution I: Fundamentals and Principles
+BIOS 23259 Molecular Evolution II: Genes and Genomes
+BIOS 23261 Invertebrate Paleobiology and Evolution
+BIOS 23266 Evolutionary Adaptation
+BIOS 23281 Evolutionary Aspects of Gene Regulation
+BIOS 23286 An Introduction to Population Genetics
+BIOS 23289 Marine Ecology
+BIOS 23299 Plant Development and Molecular Genetics
+BIOS 23404 Reconstructing the Tree of Life: An Introduction to Phylogenetics
+BIOS 23406 Biogeography
+BIOS 23409 The Ecology and Evolution of Infectious Diseases
+BIOS 23410 Complex Interactions: Coevolution, Parasites, Mutualists, and Cheaters
+BIOS 24203 Introduction to Neuroscience
+BIOS 24204 Cellular Neurobiology
+BIOS 24205 Systems Neuroscience
+BIOS 24208 Survey of Systems Neuroscience
+BIOS 24217 Conquest of Pain
+BIOS 24218 Molecular Neurobiology
+BIOS 24231 Methods in Computational Neuroscience
+BIOS 24232 Computational Approaches fo Cognitive Neuroscience
+BIOS 24239 Cellular Mechanisms of Learning
+BIOS 24246 Neurobiology of Disease I
+BIOS 24247 Neurobiology of Disease II
+BIOS 25108 Cancer Biology
+BIOS 25109 Topics in Reproduction and Cancer
+BIOS 25126 Animal Models of Human Disease
+BIOS 25205 Microbiology Laboratory
+BIOS 25206 Fundamentals of Bacterial Physiology
+BIOS 25216 Molecular Basis of Bacterial Diseases
+BIOS 25226 Endocrinology I: Cell Signaling
+BIOS 25227 Endocrinology II: Systems and Physiology
+BIOS 25228 Endocrinology III: Human Disease
+BIOS 25246 Infections and Immunity
+BIOS 25256 Immunobiology
+BIOS 25258 Immunopathology
+BIOS 25260 Host Pathogen Interactions
+BIOS 25266 Molecular Immunology
+BIOS 25287 Introduction to Virology
+BIOS 25407 Organ Transplantation
+BIOS 25418 Systems Biology of Cancer
+BIOS 26400 Introduction to Bioinformatics
+BIOS 28407 Genomics and Systems Biology
+BIOS 29100 Biology of Toxoplasma
+BIOS 29280 Developmental Psychopathology
+BIOS 29286 Biological and Cultural Evolution
+BIOS 29294 Introduction to Global Health
+BIOS 29308 Pharmacogenomics
+BIOS 29317 Issues in Women's Health
+BIOS 29318 Principles of Epidemiology
+BIOS 29319 What Genomes Teach About Evolution
+BIOS 29320 Introduction to History and Philosophy of Biology
+BIOS 29322 The Role of Animals in Modern Society
+BIOS 29326 Introduction to Medical Physics and Medical Imaging
+BIOS 29408 Signal Analysis and Modeling for Neuroscientists
+BPRO 23500 The Organization of Knowledge
+CATA 12200 Catalan for Speakers of Romance Languages
+CATA 13100 Catalan for Reading and Research Purposes
+CATA 21900 Introduction to Contemporary Catalan Literature
+CHDV 20000 Introduction to Human Development
+CHDV 20100 Human Development/Research Designs in Social Sciences
+CHDV 20101 Applied Statistics in Human Development Research
+CHDV 20104 The Second Half of Life: Person and Social Context
+CHDV 20129 Economic Development in the Inner City
+CHDV 20206 Anthropology of Language
+CHDV 20207 Race, Ethnicity, and Human Development
+CHDV 20209 Adolescent Development
+CHDV 20304 Urban Neighborhoods &amp; Urban Schools: Community Economic Opportunity and the Schools
+CHDV 20405 Pornography and Language
+CHDV 21000 Cultural Psychology
+CHDV 21500 Darwinian Health
+CHDV 23204 Medical Anthropology
+CHDV 24102 On Love: Classical Modern Perspectives
+CHDV 27317 America's White Ethnics: Contemporary Italian- and Jewish-American Ethnic Identities
+CHDV 27700 Modern Psychotherapies
+CHDV 29700 Undergraduate Reading and Research
+CHDV 29800 BA Honors Seminar
+CHDV 29900 Honors Paper Preparation
+CHDV 30117 Transnational Kinship, Intimacy and Migration
+CHDV 30302 Problems of Public Policy Implementation
+CHDV 30304 Urban Neighborhoods and Urban Schools: Community Economic Opportunity and the Schools
+CHDV 30405 Anthropology of Disability
+CHDV 31901 Language, Culture, and Thought
+CHDV 32212 Love, Capital and Conjugality: Africa and India in Comparative Perspective
+CHDV 32411 Mediation, Moderation, and Spillover Effects
+CHDV 37103 Collective Memory: The Politics of the Past
+CHDV 37104 Adulthood and Aging
+CHEM 10100 Introductory General Chemistry I
+CHEM 10200 Introductory General Chemistry II
+CHEM 11300 Comprehensive General Chemistry III
+CHEM 22700 Advanced Organic/Inorganic Laboratory
+CHEM 23300 Intermediate Organic Chemistry: Biological Chemistry
+CHEM 26700 Experimental Physical Chemistry
+CHEM 26800 Computational Chemistry and Biology
+CHEM 29900 Advanced Research in Chemistry
+CHEM 30100 Advanced Inorganic Chemistry
+CHEM 30200 Synthesis and Physical Methods in Inorganic Chemistry
+CHEM 30400 Organometallic Chemistry
+CHEM 30500 Nanoscale Materials
+CHEM 30600 Chemistry of the Elements
+CHEM 30900 Bioinorganic Chemistry
+CHEM 31100 Supramolecular Chemistry
+CHEM 32100 Physical Organic Chemistry I
+CHEM 32200 Organic Synthesis and Structure
+CHEM 32300 Tactics of Organic Synthesis
+CHEM 32400 Physical Organic Chemistry II
+CHEM 32500 Bioorganic Chemistry
+CHEM 32900 Polymer Chemistry
+CHEM 33000 Complex Chemical Systems
+CHEM 33100 New Synthetic Reactions and Catalysts
+CHEM 33400 High-Throughput Methods in Chemistry
+CHEM 36100 Wave Mechanics and Spectroscopy
+CHEM 36200 Quantum Mechanics
+CHEM 36300 Statistical Thermodynamics
+CHEM 36400 Advanced Statistical Mechanics
+CHEM 36500 Chemical Dynamics
+CHEM 36800 Advanced Computational Chemistry and Biology
+CHEM 36900 Materials Chemistry
+CHEM 37100 Advanced Spectroscopies
+CHEM 37200 Statistical Mechanics of Polymers/Glasses
+CHEM 38700 Biophysical Chemistry
+CHEM 51100 Scientific Methods and Ethics
+CHIN 40800 Readings in Literary Chinese I
+CHIN 41900 Early Chinese Texts and Sociological Research
+CLCV 21200 History and Theory of Drama I
+CLCV 21807 Greek Art &amp; Archaeology
+CLCV 22000 Greek Tragedy/Its Influences
+CLCV 22100 Epictetus/Marcus Aurelius
+CLCV 22510 Mimesis
+CLCV 22611 History of Strategy
+CLCV 23411 War in the Hellenistic World
+CLCV 23707 Pompeii
+CLCV 24200 Invention Of Love Poem
+CLCV 24306 Byzantine History, 330 to 610
+CLCV 24307 Byzantine History, 610 to 1025
+CLCV 24309 Byzantium and Islam
+CLCV 24311 Byzantine Empire, 1025-1453
+CLCV 24406 War and Society in Graeco Roman World
+CLCV 24506 Alexander the Great
+CLCV 24508 Economy and Society in Ancient Greece and Rome
+CLCV 24810 Urban Life and Social Structure in Imperial Rome
+CLCV 24910 All About Varro
+CLCV 25210 Slavery in Ancient Greece and Rome
+CLCV 25507 Ancient Greek Mystery Cults
+CLCV 25510 Homer's Odyssey
+CLCV 26010 Ancient Caravan Cities
+CLCV 26011 Ancient Views of the Economy
+CLCV 26306 Roman Visual Culture
+CLCV 26311 Roman Technologies, Machines, and Merchants
+CLCV 26811 Plotinus
+CLCV 27311 Oracles and Divination
+CLCV 28300 Ephron Seminar
+CLCV 29100 Ancient Myth
+CLCV 29800 BA Paper Seminar
+CMLT 20361 Samak-e 'Ayyar
+CMLT 20800 Brecht and Beyond
+CMLT 21202 Decolonizing Drama and Performance in Africa
+CMLT 21800 Fantasy and Science Fiction
+CMLT 22400 History of International Cinema I: Silent Era
+CMLT 22500 History of International Cinema II: Sound Era to 1960
+CMLT 22601 Cinema from the Balkans
+CMLT 23201 Returning the Gaze: The Balkans and Western Europe
+CMLT 23301 Balkan Folklore
+CMLT 23401 The Burden of History: A Nation and Its Lost Paradise
+CMLT 23702 Making a Scene
+CMLT 24011 Exile and Authorship in the Medieval Romance Literatures
+CMLT 24790 Self-Transformation and Political Resistance:  Michel Foucault, Pierre Hadot, Primo Levi, Martin Luther King, Jr
+CMLT 25102 Problems Around Foucault
+CMLT 25900 Medieval Epic
+CMLT 26000 Medieval Vernacular Literature in the British Isles
+CMLT 26001 Realism &amp; Anti-Realism in Post-Holocaust Hebrew Literature
+CMLT 26600 Ren/Lit Imagination
+CMLT 26601 Hamlet and Critical Methods
+CMLT 27402 Contemporary Chinese Writers and the Literary Field
+CMLT 28101 Don Quixote
+CMLT 28401 Comparative Metrics
+CMLT 28711 Nietzsche
+CMLT 29100 Renaissance Epic
+CMLT 29700 Reading Course
+CMLT 29801 BA Project and Workshop: Comparative Literature
+CMSC 10100 Introduction to Programming for the World Wide Web I
+CMSC 10200 Introduction to Programming for the World Wide Web II
+CMSC 10500 Fundamentals of Computer Programming I
+CMSC 10600 Fundamentals of Computer Programming II
+CMSC 11200 Introduction to Interactive Logic
+CMSC 11710 Networks
+CMSC 15300 Foundations of Software
+CMSC 15400 Introduction to Computer Systems
+CMSC 22100 Programming Languages
+CMSC 22200 Computer Architecture
+CMSC 22300 Functional Programming
+CMSC 22610 Implementation of Computer Languages I
+CMSC 22620 Implementation of Computer Languages II
+CMSC 22630 Advanced Implementation of Computer Languages
+CMSC 23000 Operating Systems
+CMSC 23300 Networks and Distributed Systems
+CMSC 23310 Advanced Distributed Systems
+CMSC 23340 Grid Computing
+CMSC 23500 Introduction to Database Systems
+CMSC 23700 Introduction to Computer Graphics
+CMSC 23800 Game Construction
+CMSC 25010 Artificial Intelligence
+CMSC 25020 Computational Linguistics
+CMSC 25030 Computational Models of Speech
+CMSC 25040 Introduction to Computer Vision
+CMSC 27200 Theory of Algorithms
+CMSC 27410 Honors Combinatorics
+CMSC 27500 Graph Theory
+CMSC 27600 Computational Biology
+CMSC 27610 Digital Biology
+CMSC 27700 Mathematical Logic I
+CMSC 27800 Mathematical Logic II
+CMSC 28000 Introduction to Formal Languages
+CMSC 28100 Introduction to Complexity Theory
+CMSC 28501 Topics in Scientific Computing
+CMSC 28510 Introduction to Scientific Computing
+CMSC 29700 Reading and Research in Computer Science
+CMSC 29900 Bachelor's Thesis
+CMSC 31100 Big Ideas in Computer Science
+CMSC 32001 Topics in Programming Languages
+CMSC 32201 Topics in Computer Architecture
+CMSC 33501 Topics in Databases
+CMSC 33600 Type Systems for Programming Languages
+CMSC 33710 Scientific Visualization
+CMSC 34000 Scientific Parallel Computing
+CMSC 34200 Numerical Hydrodynamics
+CMSC 34710 Wireless Sensor Networks
+CMSC 35000 Introduction to Artificial Intelligence
+CMSC 35100 Natural Language Processing
+CMSC 35400 Machine Learning
+CMSC 35500 Computer Vision
+CMSC 35900 Topics in Artificial Intelligence
+CMSC 36500 Algorithms in Finite Groups
+CMSC 37000 Algorithms
+CMSC 37100 Topics in Algorithms
+CMSC 37110 Discrete Mathematics
+CMSC 37200 Combinatorics
+CMSC 37400 Constructive Combinatorics
+CMSC 37701 Topics in Bioinformatics
+CMSC 37720 Computational Systems Biology
+CMSC 37800 Numerical Computation
+CMSC 38300 Numerical Solutions to Partial Differential Equations
+CMSC 38410 Quantum Computing
+CMSC 38500 Computability and Complexity Theory
+CMSC 38512 Kolmogorov Complexity
+CMSC 38600 Complexity Theory A
+CMSC 38700 Complexity Theory B
+CMSC 38815 Geometric Complexity
+CMSC 39000 Computational Geometry
+CMSC 39600 Topics in Theoretical Computer Science
+CMST 10100 Introduction to Film Analysis
+CMST 20101 Women Mystery Writers: From Page to Screen
+CMST 20202 Feminist Theory and Counter-Cinema
+CMST 21801 Chicago Film History
+CMST 21900 American Cinema Since 1961
+CMST 23000 Neorealism: Space, Culture, History
+CMST 23001 From La Dolce Vita to the Murder of Pasolini
+CMST 23202 Rome in Literature and Film
+CMST 23404 French Cinema, 1920s-1930s
+CMST 23700 La Nouvelle Vague/The French New Wave
+CMST 23801 Bresson Against Cinema
+CMST 23904 Senior Creative Thesis Workshop
+CMST 23930 Documentary Production I
+CMST 23931 Documentary Production II
+CMST 24201 Cinema in Africa
+CMST 24203 Before and after Beckett: Theater and Film
+CMST 24508 Decolonizing Drama and Performance in Africa
+CMST 24606 China’s New Documentary Cinema
+CMST 24611 Cities in Sinophone Cinemas
+CMST 24701 Left-Wing Art and Soviet Film Culture of the 1920s
+CMST 25201 Cinema and the First Avant-Garde, 1890-1933
+CMST 25501 Poetic Cinema
+CMST 25514 Symbolism and Cinema
+CMST 27201 Zizek on Film
+CMST 27402 The Modern Body and the Cinema
+CMST 27600 Introduction to Black and White Film Photography
+CMST 27800 Theories of Media
+CMST 28100 Issues in Film Music
+CMST 28200 Nonfiction Film: Representations and Performance
+CMST 28201 Political Documentary Film
+CMST 28800 Introduction to Digital Imaging
+CMST 28900 Introduction to Video
+CMST 28903 Video
+CMST 28920 Introduction to Film Production
+CMST 29700 Reading and Research Course
+CMST 29800 Senior Colloquium
+CMST 29900 BA Research Paper
+CRES 10101 Problems in the Study of Gender
+CRES 10200 Introduction to World Music
+CRES 20100 The Inka and Aztec States
+CRES 20104 Urban Structure and Process
+CRES 20140 Qualitative Field Methods
+CRES 20173 Inequality in American Society
+CRES 20207 Race, Ethnicity, and Human Development
+CRES 20400 Intensive Study of a Culture: Lowland Maya History and Ethnography
+CRES 21201 Intensive Study of a Culture: Chicago Blues
+CRES 21264 Intensive Study of a Culture: Political Struggles of Highland Asia
+CRES 21903 Introducción a las literaturas hispánicas: textos hispanoamericanos desde la colonia a la independencia
+CRES 22205 Slavery and Unfree Labor
+CRES 22701 Poesía, nación y ciudadanía en el siglo XIX hispanoamericano
+CRES 24110 Buddhism and the West
+CRES 24210 Oral History and the Politics of Memory in Socialist China
+CRES 24255 Everyday Maoism: Work, Daily Life, and Material Culture in Socialist China
+CRES 24601 Martin and Malcolm: Life and Belief
+CRES 24706 Edo/Tokyo: Society and the City in Japan
+CRES 24720 The Japanese Empire and Nation Formations in East Asia
+CRES 24901 Trade, Development, and Poverty in Mexico
+CRES 25900 South Asia Before the Buddha
+CRES 26500 History of Mexico, 1876-Present
+CRES 26801 Race Policy
+CRES 27114 Haitian Revolution and Human Rights
+CRES 27317 America's White Ethnics: Contemporary Italian- and Jewish-American Ethnic Identities
+CRES 27400 Race and Racism in American History
+CRES 27403 African American Lives &amp; Times
+CRES 27600 Comparative Race Studies in Context: Service Learning/Internship Credit
+CRES 27705 Introduction to Black Chicago, 1893 to 2008
+CRES 28000 US Latinos: Origins/Histories
+CRES 28703 Baseball and American Culture, 1840-Present
+CRES 29302 Human Rights II: History and Theory
+CRES 29626 History Colloquium: Sex and the City in International History
+CRES 29800 BA Colloquium: Theory and Methods in Comparative Race and Ethnic Studies
+CRES 29900 Preparation for the BA Essay
+CRES 31800 Religious Movements in Native North America
+EALC 14403 Folk Authenticity in the Literature, Culture, and Politics of East Asia and the West
+EALC 16806 Art of Asia: Japan
+EALC 17107 Chinese Calligraphy
+EALC 17110 Sinotopos: Chinese Landscape Representation and Interpretation
+EALC 17211 Arts of Medieval Japan
+EALC 20101 Skills and Methods in Chinese Painting History
+EALC 20450 Peking Opera
+EALC 22030 Bread and Roses: Literature of Protest in Japan and Elsewhere
+EALC 22470 Survey of Chinese Texts in Archaic Scripts
+EALC 22500 The Rise of Writing in East Asia
+EALC 24110 Buddhism and the West
+EALC 24210 Oral History and the Politics of Memory in Socialist China
+EALC 24250 China in Revolution
+EALC 24255 Everyday Maoism: Work, Daily Life, and Material Culture in Socialist China
+EALC 24500 Reading Qing Documents
+EALC 24607 Chinese Independent Documentary Film
+EALC 24706 Edo/Tokyo: Society and the City in Japan
+EALC 24710 Japan and the World in 19th Century Art
+EALC 24720 The Japanese Empire and Nation Formations in East Asia
+EALC 25305 Dream of the Red Chamber and the Culture of Late Imperial China
+EALC 25811 Chinese Buddhism
+EALC 26201 Medicine and Culture in Modern East Asia
+EALC 26206 The Yi Jing
+EALC 27105 Concentrator's Seminar: Issues in East Asian Civilization
+EALC 27605 Hiroshima, Nagasaki, and Beyond
+EALC 29300 Books, Prints, and Texts in Late-Imperial China
+EALC 40431 Noh Drama
+EALC 40450 Pre-Modern Japanese Bodies
+EALC 42512 The Painter's Project in Japan, 1750-1930
+EALC 42610 Imperial Collections of Chinese Painting and Calligraphy
+EALC 44622 Keywords in Chinese Literary and Cultural Criticism
+EALC 44630 The Contemporary Chinese Novel
+EALC 45820 Chinese Buddhist Texts and Thought
+EALC 44630 The Contemporary Chinese Novel
+ECON 17800 Public Policy Analysis
+ECON 19800 Introduction to Microeconomics
+ECON 19900 Introduction to Macroeconomics
+ECON 20000 The Elements of Economic Analysis I
+ECON 20100 The Elements of Economic Analysis II
+ECON 20200 The Elements of Economic Analysis III
+ECON 20300 The Elements of Economic Analysis IV
+ECON 20700 Game Theory and Economic Applications
+ECON 20710 Game Theory: A Formal Approach
+ECON 20800 Theory of Auctions
+ECON 20900 Introduction to Econometrics: Honors
+ECON 21000 Econometrics A
+ECON 21100 Econometrics B
+ECON 21200 Time Series Econometrics
+ECON 21800 Experimental Economics
+ECON 22200 Topics in American Economic History
+ECON 22300 Business Ethics in Historical Perspective
+ECON 22500 Population and the Economy
+ECON 22600 Innovators
+ECON 22650 Creativity
+ECON 22700 Economics and Demography of Marketing
+ECON 23000 Money and Banking
+ECON 23200 Topics in Macroeconomics
+ECON 24000 Introduction to Labor Economics
+ECON 24400 Pay and Performance
+ECON 25000 Introduction to Finance
+ECON 25100 Financial Economics B; Speculative Markets
+ECON 25200 Theory of Financial Decisions
+ECON 25500 Topics in Economic Development
+ECON 25620 Topics in Latin American Economies
+ECON 26010 Introduction to Public Finance
+ECON 26500 Environmental Economics
+ECON 26510 Advanced Topics in Environmental Economics
+ECON 26600 Economics of Urban Policies
+ECON 26700 Economics of Education
+ECON 26800 Energy and Energy Policy
+ECON 27000 Introduction to International Economics
+ECON 27300 Regulation of Vice
+ECON 27700 Health Economics and Public Policy
+ECON 28000 Introduction to Industrial Organization
+ECON 28100 The Economics of Sports
+ECON 28600 Introduction to the Economic Analysis of Law
+ECON 28700 The Economics of Crime
+ECON 29700 Undergraduate Reading and Research
+ECON 29800 Undergraduate Honors Workshop
+EEUR 20900 Structure Of Albanian
+EEUR 23500 The Unbelievable Came True: Magic Realism in the Other Europe
+EEUR 27600 Milan Kundera
+EEUR 23500 The Unbelievable Came True: Magic Realism in the Other Europe
+EGPT 10101 Introduction to Middle Egyptian Hieroglyphs I
+EGPT 10102 Introduction to Middle Egyptian Hieroglyphs II
+EGPT 10103 Middle Egyptian Texts I
+EGPT 10201 Introduction to Coptic
+EGPT 10202 Coptic Texts
+EGPT 20101 Middle Egyptian Texts II
+EGPT 20102 Introduction to Hieratic
+EGPT 20110 Introduction to Old Egyptian
+EGPT 20210 Introduction to Late Egyptian
+EGPT 20211 Late Egyptian Texts
+EGPT 30120 Introduction to Demotic
+EGPT 30121 Demotic Texts
+ENGL 10400 Introduction to Poetry
+ENGL 10700 Introduction to Fiction: The Short Story
+ENGL 10800 Introduction to Film Analysis
+ENGL 11100 Critical Perspectives
+ENGL 11902 The Long History of Nostalgia
+ENGL 13800 History and Theory of Drama I
+ENGL 13900 History and Theory of Drama II
+ENGL 14900 Old English
+ENGL 15000 Old English Poetry
+ENGL 15500 Chaucer: The Canterbury Tales
+ENGL 15800 Medieval Epic
+ENGL 16202 Spenser
+ENGL 16500 Shakespeare I: Histories and Comedies
+ENGL 16600 Shakespeare II: Tragedies and Romances
+ENGL 16711 Hamlet and Critical Methods
+ENGL 16712 The Problems of Self in Renaissance Literature
+ENGL 16714 English Renaissance Drama: Marlowe, Kyd, Jonson, Webster, Shakespeare
+ENGL 16909 Drama in Performance; Ben Jonson's Volpone
+ENGL 17501 Milton
+ENGL 17806 Seduction and the Novel: 1760-1830
+ENGL 18910 Theories of the Novel
+ENGL 20102 London Program: Victorian London in Literature and Art
+ENGL 20104 London Program: Monty Python and the Holy Grail: King Arthur
+ENGL 20120 London Program: Slums and Slumming: Late Victorian East End
+ENGL 20215 Wordsworth and Byron
+ENGL 20216 Poetry and Religion
+ENGL 20217 William Blake and the Pre-Raphaelites
+ENGL 20900 Fantasy and Science Fiction
+ENGL 21903 The Victorian Novel
+ENGL 21915 The Politics of Aestheticism
+ENGL 21916 Science and Literary Imagination
+ENGL 21917 Victorian Things: Significant Objects in 19th Century Fiction
+ENGL 22205 Psyche and Literature
+ENGL 22206 Fin de Siecle
+ENGL 22303 The Art of Fiction: Henry James, 1902-1904
+ENGL 23500 What's Love Got to Do with It?: The Genres of Modern Romance
+ENGL 23501 The Church on the Brain; the State on the Body
+ENGL 24000 Ulysses
+ENGL 24202 Romantic Fiction and the Historical Novel
+ENGL 24306 Asian American Poetry
+ENGL 24308 The Afterlives of Gandhi
+ENGL 24309 Navigating Global Literature
+ENGL 24400 Brecht and Beyond
+ENGL 24406 &quot;Impossible&quot; Theaters
+ENGL 25403 American West
+ENGL 25407 Emily Dickinson
+ENGL 25408 'Pain—expands the Time': American Elegy
+ENGL 25409 Melville
+ENGL 25502 American Women Writing at the Mid-Century
+ENGL 25600 The Poet In The Novel
+ENGL 25925 Flux Americana: Tramps and Tramping in American Literature
+ENGL 25943 Radical Documentary
+ENGL 25944 Lines of Transmission: Comics and Autobiography
+ENGL 25945 Digital Storytelling
+ENGL 25946 Retailing Bodies: Anomalous Embodiment in American Reality TV
+ENGL 25947 Ubiquitous Mediation: Time, Narrative, Materiality
+ENGL 26000 Anglo-American Gothic Fiction in the Nineteenth Century
+ENGL 26706 New York School Poetry
+ENGL 26905 American Novel Between the Wars: 1919-1945
+ENGL 26906 Wayward Shots: Alternative Aesthetics of the American West
+ENGL 27306 Introduction to Afro-American Literature: 1892-1974
+ENGL 27307 Ralph Ellison's Invisible Man and the Problem of Democracy
+ENGL 27308 African-American Autobiography
+ENGL 28812 The Little Magazine and the Little Book, 1912-2012
+ENGL 29300 History of International Cinema I: Silent Era
+ENGL 29600 History of International Cinema II: Sound Era to 1960
+ENGL 29700 Reading Course
+ENGL 29900 Independent BA Paper Preparation
+ENGL 10400 Introduction to Poetry
+ENGL 14900 Old English
+ENGL 15000 Old English Poetry
+ENGL 15500 Chaucer: The Canterbury Tales
+ENGL 15800 Medieval Epic
+ENGL 20104 London Program: Monty Python and the Holy Grail: King Arthur
+ENST 12100 Chemistry and the Atmosphere
+ENST 12300 Global Warming: Understanding the Forecast
+ENST 12404 Environmental Ecology
+ENST 13106 The Hungry Earth: Light, Energy, and Subsistence
+ENST 13300 The Atmosphere
+ENST 20500 Introduction to Population
+ENST 21201 Human Impact on the Environment
+ENST 21300 Making the Natural World: Foundations of Human Ecology
+ENST 21800 Economics and Environmental Policy
+ENST 22000 The Anthropology of Development
+ENST 22504 Losing the Farm: Globalization and Food Production in the Twentieth Century
+ENST 23100 Environmental Law
+ENST 23289 Marine Ecology
+ENST 23500 Political Sociology
+ENST 23900 Environmental Chemistry
+ENST 24102 Environmental Politics
+ENST 24705 Energy: Science, Technology, and Human Usage
+ENST 25100 Ecological Applications to Conservation Biology
+ENST 25300 The Planetary Footprint of Farming
+ENST 25500 Biogeography
+ENST 25900 Cultural Geography
+ENST 26100 Roots of the Modern American City
+ENST 26300 The Chinese Environment
+ENST 26500 Environmental Economics
+ENST 26510 Advanced Topics in Environmental Economics
+ENST 26530 Environment, Agriculture, and Food: Economic and Policy Analysis
+ENST 27400 Principles of Epidemiology
+ENST 28210 Colonial Ecologies
+ENST 28601 Ideas of Nature I
+ENST 28602 Ideas of Nature II
+ENST 28700 Environment and the Body
+ENST 29000 Energy and Energy Policy
+ENST 29105 Spoons Full of Sugar: Economic, Political, and Social Repercussions of the Sugar Industry
+ENST 29700 Reading and Research
+ENST 29801 BA Colloquium I
+ENST 29802 BA Colloquium II
+FNDL 20100 Dostoyevsky's Crime and Punishment
+FNDL 20100 Dostoyevsky's Crime and Punishment
+FNDL 21201 Milton
+FNDL 21207 Three Erotic Dialogues: Plato, Xenophon, Plutarch
+FNDL 21211 Don Quixote
+FNDL 21213 Arendt and Heidegger
+FNDL 21403 Shakespeare I: Histories and Comedies
+FNDL 21404 Shakespeare II: Tragedies and Romances
+FNDL 21705 Calvin on Idolatry, Sovereignty, and Freedom
+FNDL 21714 Boccaccio's Decameron
+FNDL 21805 Introduction to Marx
+FNDL 21809 Immanuel Kant's Critique of Practical Reason
+FNDL 21901 Homer's Odyssey
+FNDL 22002 Pirandello and Pirandellism
+FNDL 22003 Aesthetics of Hume and Kant
+FNDL 22205 Hamlet and Critical Methods
+FNDL 22214 Leviathan
+FNDL 23301 Spenser
+FNDL 23409 Introduction to Heidegger
+FNDL 23804 Marcel Proust, In Search of Lost Time, Part I
+FNDL 23805 Marcel Proust, In Search of Lost Time, Part II
+FNDL 23901 The Cinema of Jean Renoir
+FNDL 24001 Ulysses
+FNDL 24314 Dream of the Red Chamber and the Culture of Late Imperial China
+FNDL 24400 The Mahabharata in English Translation
+FNDL 24411 Lincoln: Slavery, War, and the Constitution
+FNDL 25300 Lolita
+FNDL 25302 Outsiders I: Elsa Morante
+FNDL 25700 Chaucer: The Canterbury Tales
+FNDL 25801 Ralph Ellison's Invisible Man and the Problem of Democracy
+FNDL 26104 Smith and Tocqueville
+FNDL 26706 Reading Sir Frances Bacon
+FNDL 27104 Milan Kundera
+FNDL 27906 Plotinus
+FNDL 28101 Aristotelian Ethics
+FNDL 28202 Introduction to the New Testament
+FNDL 28203 Topics from Hegel's Phenomenology of Spirit
+FNDL 29605 Freud's Interpretation of Dreams
+FNDL 29901 Independent Study: Junior Paper
+FNDL 29902 Independent Study: Senior Examination
+FREN 13100 Introduction to French through Reading
+FREN 20500 Ecrire en français
+FREN 20601 Expression orale et phonétique
+FREN 21500 Stylistique et analyse littéraire
+FREN 21703 Introduction à la littérature française I
+FREN 21803 Introduction à la littérature française II: Littérature à l'Age des Lumières
+FREN 21903 Introduction à la littérature française III: Littérature à l'Age des Révolutions
+FREN 22003 Introduction à la littérature française IV: Du moderne au contemporain
+FREN 22203 The Literary Avant-Garde
+FREN 22702 Montaigne and the Form of the Essay
+FREN 22702 Montaigne and the Form of the Essay
+FREN 23804 Marcel Proust, In Search of Lost Time, Part I
+FREN 23805 Marcel Proust, In Search of Lost Time, Part II
+FREN 24301 Le Règne des passions au 17e siècle
+FREN 27600 Ancien Francais/Old French
+FREN 27600 Ancien Francais/Old French
+FREN 27900 Le Livre Antillais: Culture, Écriture Et Politique
+FREN 28500 Les Revenants: histoire, fiction et société au 19e siècle
+FREN 29512 Voltaire
+FREN 29900 BA Paper Preparation: French
+GEEZ 10101 Elementary Ge'ez-1
+GEEZ 10102 Elementary Ge'ez-2
+GEEZ 10103 Readings: Classical Ethiopic
+GEOG 20000 Orientation Seminar
+GEOG 20100 Cultural Geography
+GEOG 21900 Historical Geography of the United States
+GEOG 22100 Changing America in the Twentieth Century
+GEOG 22700 Urban Structure and Process
+GEOG 23003 Urban Europe, 1600 to the Present
+GEOG 23500 Urban Geography
+GEOG 25300 Seminar: Problems in the Human Geography of the Middle East
+GEOG 25500 Biogeography
+GEOG 26100 Roots of the Modern American City
+GEOG 26300 The Chinese Environment
+GEOG 26600 Economics of Urban Policies
+GEOG 27600 Colloquium: Hyde Park and Chicago's South Side as Historical Laboratory
+GEOG 28200 Introduction to GIS
+GEOG 28400 Intermediate GIS
+GEOG 28600 Advanced GIS
+GEOG 28800 History of Cartography
+GEOG 29100 Undergraduate Tutorial
+GEOG 29300 Readings in Geographic Literature in French
+GEOG 29400 Readings in Nature and Culture
+GEOG 29500 Readings in Culture and Nationality
+GEOG 29700 Readings in Special Topics in Geography
+GEOG 29800 Senior Seminar
+GEOG 42400 Urban Landscapes as Social Text
+GEOS 13100 Physical Geology
+GEOS 13200 Earth History
+GEOS 13300 The Atmosphere
+GEOS 21000 Introduction to Mineralogy
+GEOS 21005 Mineral Science
+GEOS 21100 Introduction to Petrology
+GEOS 21200 Physics of the Earth
+GEOS 21205 Introduction to Seismology, Earthquakes, and Near-Surface Earth Seismicity
+GEOS 21400 Thermodynamics and Phase Change
+GEOS 22000 Origin and Evolution of the Solar System
+GEOS 22040 Formation of Planetary Systems in Our Galaxy: From Dust to Planetesimals
+GEOS 22050 Formation of Planetary Systems in our Galaxy: From Planetesimals to Planets
+GEOS 22200 Geochronology
+GEOS 23200 Climate Dynamics of the Earth and Other Planets
+GEOS 23205 Introductory Glaciology
+GEOS 23400 Global Warming: Understanding the Forecast
+GEOS 23800 Global Biogeochemical Cycles
+GEOS 23805 Stable Isotope Biogeochemistry
+GEOS 23900 Environmental Chemistry
+GEOS 24500 The Atmosphere and Ocean in Motion
+GEOS 24600 Laboratory Course on Weather and Climate
+GEOS 24705 Energy: Science, Technology, and Human Usage
+GEOS 25400 Introduction to Numerical Techniques for the Geophysical Sciences
+GEOS 26300 Invertebrate Paleobiology and Evolution
+GEOS 26400 Principles of Paleontology
+GEOS 27000 Evolutionary History of Terrestrial Ecosystems
+GEOS 28000 Introduction to Structural Geology
+GEOS 28100 Global Tectonics
+GEOS 28300 Principles of Stratigraphy
+GEOS 29001 Field Course in Geology
+GEOS 29002 Field Course in Modern and Ancient Environments
+GEOS 29003 Field Course in Oceanography
+GEOS 29005 Field Course in Environmental Science
+GEOS 29700 Reading and Research in the Geophysical Sciences
+GNDR 12000 The Biology of Gender
+GNDR 20170 The Sociology of Deviant Behavior
+GNDR 20202 Women Mystery Writers: From Page to Screen
+GNDR 20800 Sexual Identity/Life Course/Life Study
+GNDR 21001 Cultural Psychology
+GNDR 21400 Advanced Theories of Sex/Gender: Ideology, Culture, and Sexuality
+GNDR 21500 Darwinian Health
+GNDR 21805 Gender and Writing at the Fin de Siècle
+GNDR 21906 Sex, Drugs, and the Literature of American Altered Consciousness
+GNDR 22203 Women in Mesopotamian Art
+GNDR 22205 Anglo-American Gothic Fiction in the Nineteenth Century
+GNDR 22401 Latina/o Intellectual Thought
+GNDR 23102 Love, Conjugality, and Capital: Intimacy in the Modern World
+GNDR 23302 Writing Postcolonial History
+GNDR 23303 Bombay/Mumbai: Urban Life/Urban Politics
+GNDR 23700 Medieval Women's Religious Writing
+GNDR 23804 Marcel Proust In Search of Lost Time, Part I
+GNDR 23805 Marcel Proust In Search of Lost Time, Part II
+GNDR 24001 Love and Eros: Japanese History
+GNDR 24703 American Women Writing at Mid-Century
+GNDR 24804 Lines of Transmission: Comics and Autobiography
+GNDR 24900 Nabokov:  Lolita
+GNDR 24903 Mimesis
+GNDR 25104 Sexology and Queer Theory
+GNDR 25200 Happiness
+GNDR 25900 Austen:  Pride and Prejudice/Emma/Persuasion
+GNDR 26501 Politics of Reproduction in Historical Perspective
+GNDR 27100 Sociology of Human Sexuality
+GNDR 27502 Indian Cinema: An Introduction
+GNDR 27702 Gender in the Balkans through Literature and Film
+GNDR 28601 Outsiders I: Elsa Morante
+GNDR 28604 Law and Social Movements in Modern America
+GNDR 28605 Feminist Theory
+GNDR 29700 Readings in Gender Studies
+GREK 21100 Elegiac Poetry
+GREK 21200 Plato
+GREK 21300 Tragedy
+GREK 21700 Lyric and Epinician Poetry
+GREK 21800 Greek Epic
+GREK 21900 Greek Oratory
+GREK 22300 Greek Tragedy I: Euripides
+GREK 22400 Greek Comedy: Aristophanes
+GREK 22500 Greek Historians: Herodotus
+GREK 28000 The Greek City and Its Inscriptions
+GREK 34400 Greek Prose Composition
+GRMN 10201 Elementary German
+GRMN 13100 Reading German
+GRMN 23511 Man and Machine
+GRMN 24311 Three Generations
+GRMN 24411 Kafka as a Storyteller
+GRMN 24411 Kafka as a Storyteller
+GRMN 25212 Enlightenment Fantasies
+GRMN 25311 Bargaining with the Devil
+GRMN 25811 German Cinema, 1945 to 1980
+GRMN 26211 Enlightenment's Imaginary
+GRMN 26511 The Age of Goethe
+GRMN 27212 Freud’s Interpretation of Dreams
+GRMN 28411 Comparative Metrics
+GRMN 28711 Nietzsche
+GRMN 28711 Nietzsche
+GRMN 29000 Major Works of Modernism
+GRMN 29700 Reading and Research Course in German
+GRMN 29900 BA Paper
+GRMN 34900 Old English
+GRMN 37412 The Cinema of Catastrophe and Resistance: Readings in Cultural and Aesthetic Theory
+HEBR 10101 Elementary Classical Hebrew I
+HEBR 10102 Elementary Classical Hebrew II
+HEBR 10103 Elementary Classical Hebrew III
+HEBR 10501 Introductory Modern Hebrew I
+HEBR 10502 Introductory Modern Hebrew II
+HEBR 10503 Introductory Modern Hebrew III
+HEBR 20001 Hebrew Letters and Inscriptions
+HEBR 20002 Phoenician Inscriptions
+HEBR 20003 Punic Inscriptions
+HEBR 20104 Intermediate Classical Hebrew I
+HEBR 20105 Intermediate Classical Hebrew II
+HEBR 20106 Intermediate Classical Hebrew III
+HEBR 20204 Rdgs: Dead Sea Scrolls
+HEBR 20301 Tannaitic Hebrew Texts I
+HEBR 20302 Tannaitic Hebrew Texts II
+HEBR 20501 Intermediate Modern Hebrew I
+HEBR 20502 Intermediate Modern Hebrew II
+HEBR 20503 Intermediate Modern Hebrew III
+HEBR 30501 Advanced Modern Hebrew-1
+HEBR 30502 Advanced Modern Hebrew-2
+HEBR 30503 Advanced Modern Hebrew-3
+HEBR 30601 Advanced Readings in Modern Hebrew I
+HEBR 30602 Advanced Readings in Modern Hebrew II
+HEBR 30603 Advanced Readings in Modern Hebrew III
+HIPS 20500 Intermediate Logic I: Incompleteness
+HIPS 20700 Elementary Logic
+HIPS 20800 Evolutionary Processes
+HIPS 21000 Introduction to Ethics
+HIPS 21100 The Practice of Anthropology: Celebrity and Science in Paleoanthropology
+HIPS 21200 Big Science and the Birth of the National Security State
+HIPS 21301 The Anthropology of Science
+HIPS 21911 Medical Ethics: Who Decides and on What Basis
+HIPS 22300 Philosophy of Social Science
+HIPS 22601 Medicine and Society in Twentieth-Century China
+HIPS 23000 The Organization of Knowledge
+HIPS 23600 Classical Readings in Anthropology: History and Theory of Human Evolution
+HIPS 23700 Apes and Human Evolution
+HIPS 23900 Biological and Cultural Evolution
+HIPS 24000 Evolution of the Hominoidea
+HIPS 24300 Foucault and the History of Sexuality
+HIPS 24800 Gender and History and Science Technology and Medicine
+HIPS 24913 Victorian Science
+HIPS 25107 Sciences of Mind and the Moving Image
+HIPS 25203 Media Ecology: Embodiment and Software
+HIPS 25307 History and Historiography of Science
+HIPS 25408 The History of Suggestion
+HIPS 25700 Science in Victorian Britain
+HIPS 25901 Evolution of Mind and Morality: Nineteenth to Twenty-First Centuries
+HIPS 26000 History of Philosophy II: Medieval and Early Modern Philosophy
+HIPS 26203 Nature/Culture
+HIPS 26302 Human Condition: Self as Subject/Object/Machine
+HIPS 26502 Social Studies of Science
+HIPS 26701 Goethe: Literature, Science, and Philosophy
+HIPS 27300 Medicine and Culture
+HIPS 28002 Sciences of Memory in the Twentieth Century
+HIPS 28101 Psychoanalysis and Philosophy
+HIPS 28202 Topics in Philosophy of Science: Mechanism and Causation
+HIPS 28601 Environment and the Body
+HIPS 28801 Environmental Law
+HIPS 29700 Readings and Research in History, Philosophy, and Social Studies of Science and Medicine
+HIPS 29800 Junior Seminar: My Favorite Readings in the History and Philosophy of Science
+HIPS 29900 Bachelor's Thesis
+HIPS 30100 Bachelor's Thesis Workshop
+HIST 17602 Introduction to Asian/Pacific Islander American History
+HIST 20005 Colonial African History
+HIST 20403 Aristophanes
+HIST 21005 Economy and Society in Ancient Greece and Rome
+HIST 21702 Byzantine Empire, 610 to 1025
+HIST 21703 Byzantine Empire, 1025 to 1453
+HIST 21900 History of Strategy
+HIST 22001 Byzantium and Islam
+HIST 22111 Mary and Mariology
+HIST 22202 Jewish History and Society III
+HIST 22406 Jewish History and Society II
+HIST 22707 Britain's Industrial Revolution
+HIST 22902 Renaissance Humanism
+HIST 23000 Intellectual Property and Piracy
+HIST 23002 Protestant Reformation in Germany
+HIST 23302 Europe, 1815 to 1914
+HIST 23305 Europe, 1660 to 1815
+HIST 23306 Europe, 1914 to Present
+HIST 23407 Comparative Kingship: Rulers in 12th-Century Europe
+HIST 23510 The Arts of Language in the Middle Ages: The Trivium
+HIST 24003 The Russian Empire, 1700 to 1917
+HIST 24110 Buddhism and the West
+HIST 24111 The Japanese Empire and National Formations in East Asia
+HIST 24206 Medicine and Culture in Modern East Asia
+HIST 24207 Imperialism and Popular Culture
+HIST 24210 Modern Japan
+HIST 24500 Reading Qing Documents
+HIST 24504 Reading the Revolution: Chinese Social History in Documents
+HIST 24507 Everyday Maoism: Work, Daily Life, and Material Culture in Socialist China
+HIST 24706 Edo/Tokyo: Society and the City in Japan
+HIST 24710 Oral History and the Politics of Memory in Socialist China
+HIST 24913 Victorian Science
+HIST 25104 History and Philosophy of Biology
+HIST 25107 Sciences of Mind and the Moving Image
+HIST 25203 Economic/Social History of Europe, 1700 to 1880
+HIST 25204 Economic/Social History of Europe, 1880 to the Present
+HIST 25300 American Revolution, 1763 to 1789
+HIST 25307 History and Historiography of Science
+HIST 25408 The History of Suggestion
+HIST 25807 The High Caliphate
+HIST 26106 Tropical Commodities in Latin America
+HIST 26113 Culture, Politics, and Sexuality in the Latin American 1960s
+HIST 26212 Brazilian Cultural History
+HIST 26500 History of Mexico, 1876 to Present
+HIST 26508 A Transnational History of Youth in the 20th Century
+HIST 27006 Not Just the Facts: Telling about the American South
+HIST 27102 Lincoln: Slavery, War, and the Constitution
+HIST 27114 Haitian Revolution and Human Rights
+HIST 27400 Race and Racism in American History
+HIST 27403 African American Lives and Times
+HIST 27705 Introduction to Black Chicago, 1893 to 2008
+HIST 28404 Politics of Reproduction in Historical Perspective
+HIST 28503 Historicizing American Power Culture
+HIST 28604 Law and Social Movements in Modern America
+HIST 28703 Baseball and American Culture, 1840 to Present
+HIST 28800 Historical Geography of the United States
+HIST 28803 Motherhood As Institution and Historical Practice
+HIST 29301 Human Rights I: Philosophical Foundations of Human Rights
+HIST 29302 Human Rights II: History and Theory
+HIST 29303 Human Rights III: Contemporary Issues in Human Rights
+HIST 29306 Problems in the Study of Gender
+HIST 29408 Human Rights in Mexico
+HIST 29613 Colloquium: Hyde Park and Chicago's South Side as Historical Laboratory
+HIST 29624 History Colloquium: Civil Rights and Cultural Revolution
+HIST 29625 History Colloquium: The European Family
+HIST 29626 History Colloquium: Sex and the City in International History
+HIST 29627 History Colloquium: Life Stories of Russian Women
+HIST 29700 Readings in History
+HIST 29802 BA Essay Seminar
+HIST 29900 Tolkien: Medieval and Modern
+HIST 21703 Byzantine Empire, 1025 to 1453
+HIST 22001 Byzantium and Islam
+HIST 22111 Mary and Mariology
+HIST 23407 Comparative Kingship: Rulers in 12th-Century Europe
+HIST 23510 The Arts of Language in the Middle Ages: The Trivium
+HIST 23510 The Arts of Language in the Middle Ages: The Trivium
+HIST 24003 The Russian Empire, 1700 to 1917
+HIST 29627 History Colloquium: Life Stories of Russian Women
+HUMA 02980 Practicum
+HUMA 19100 Humanities Writing Seminars
+HUMA 23502 The Organization of Knowledge
+HUMA 23801 The Thought of Hannah Arendt
+HUMA 24900 Happiness
+HUMA 25202 Media Ecology: Embodiment and Software
+HUMA 26308 Being Christian in the Roman Empire: Political Loyalty and Dissent in Early Christian Literature
+HUMA 26401 On Love: Classical and Modern Perspectives
+HUMA 29700 Reading Course
+INST 23101 Contemporary Global Issues I
+INST 23102 Contemporary Global Issues II
+INST 27401 Magic in the Market
+INST 27501 Global Capital, Local Bodies: Speculative, Spectral, and Scientific Economies
+INST 29700 Reading and Research
+ISHU 29802 The BA Colloquium
+ISHU 29900 Preparation of the BA Project
+ITAL 20400 Corso di perfezionamento
+ITAL 20500 Luci e ombre nell’Italia contemporanea
+ITAL 21100 Le regioni italiane: lingua, dialetti, tradizioni
+ITAL 21200 Poeti del Duecento
+ITAL 21200 Poeti del Duecento
+ITAL 22600 The Making and Unmaking of Petrarch's Canzoniere
+ITAL 22600 The Making and Unmaking of Petrarch's Canzoniere
+ITAL 22600 The Making and Unmaking of Petrarch's Canzoniere
+ITAL 23502 Boccaccio's Decameron
+ITAL 23502 Boccaccio's Decameron
+ITAL 24011 Exile and Authorship in the Medieval Romance Literatures
+ITAL 24011 Exile and Authorship in the Medieval Romance Literatures
+ITAL 24803 Outsiders I: Elsa Morante
+ITAL 25200 Vico and His Legacy
+ITAL 25400 Il Seicento
+ITAL 26400 Pirandello and Pirandellism
+ITAL 29900 BA Paper Preparation: Italian
+JAPN 29300 Introduction to Classical Japanese
+JWSC 11000 Biblical Aramaic
+JWSC 11100 Old Aramaic Inscriptions
+JWSC 11200 Imperial Aramaic
+JWSC 21003 Archaeology of the Ancient Near East III: Levant
+JWSC 24500 America's White Ethnics: Contemporary Italian- and Jewish-American Ethnic Identities
+JWSC 24790 Self-Transformation and Political Resistance: Michel Foucault, Pierre Hadot, Primo Levi, Martin Luther King, Jr
+JWSC 25601 Advanced Readings in Modern Hebrew
+JWSC 26100 Maimonides and Hume on Religion
+JWSC 26450 Jewish Political Thought
+JWSC 26801 The Thought of Hannah Arendt
+JWSC 29700 Reading and Research Course
+JWSC 29900 BA Paper Preparation Course
+KAZK 10101 Elementary Kazakh-1
+KAZK 10102 Elementary Kazakh II
+KAZK 10103 Elementary Kazakh III
+KORE 20500 Accelerated Korean for Bilingual Speakers
+KORE 42100 Korean Contemporary TV and Language
+KORE 42200 Contemporary Korean Society and History through Fiction and Film
+KORE 42300 Changing Identity of Contemporary Korean through Film and Literature
+LACS 20100 The Inka and Aztec States
+LACS 20400 Intensive Study of a Culture: Lowland Maya History and Ethnography
+LACS 21254 Intensive Study of a Culture: Pirates
+LACS 21800 Introduction to Latin American Cultural Theory
+LACS 21903 Introducción a las Literaturas Hispánicas: Textos Hispanoamericanos desde la Colonia a la Independencia
+LACS 22205 Slavery and Unfree Labor
+LACS 24000 Intérpretes do Brasil
+LACS 24501 Human Rights in Mexico
+LACS 25303 Human Rights: Alien and Citizen
+LACS 26500 History of Mexico, 1876 to the Present
+LACS 26508 A Transnational History of Youth in the 20th Century
+LACS 27100 Dystopia in Lusophone Literatures
+LACS 27900 Beginning Modern Spoken Yucatec Maya I, II, III
+LACS 28000 US Latinos: Origins/Histories
+LACS 28210 Colonial Ecologies
+LACS 29700 Reading and Research in Latin American Studies
+LACS 29801 BA Colloquium
+LACS 29900 Preparation of the BA Essay
+LATN 21100 Roman Elegy
+LATN 21200 Roman Novel
+LATN 21300 Vergil
+LATN 21700 Epic
+LATN 21800 Roman Historian
+LATN 21900 Roman Comedy
+LATN 22100 Lucretius
+LATN 22200 Roman Satire
+LATN 22300 Roman Oratory
+LATN 25811 Cicero's De Finibus and Hellenistic Ethics
+LATN 29700 Reading Course
+LATN 34400 Latin Prose Composition
+LATN 22100 Lucretius
+LGLN 22001 From Proto-Indo-European to Old Church Slavonic
+LGLN 25100 Old Church Slavonic
+LING 20001 Introduction to Linguistics
+LING 20101 Introduction to Phonetics and Phonology
+LING 20150 Language and Communication
+LING 20201 Introduction to Syntax
+LING 20301 Introduction to Semantics and Pragmatics
+LING 21000 Morphology
+LING 21300 Historical Linguistics
+LING 23900 Languages of the World
+LING 25000 Linguistic Typology
+LING 26400 Introduction to Slavic Linguistics
+LING 27010 Psycholinguistics
+LING 27910 Sign Languages Linguistics
+LING 28600 Computational Linguistics
+LING 29700 Reading and Research Course
+LING 29900 BA Paper Preparation Course
+LLSO 20601 American Revolution, 1763-1789
+LLSO 21612 Economic Shocks, Institutions, and Growth
+LLSO 21810 Global Justice
+LLSO 21911 Politics of Reproduction in Historical Perspective
+LLSO 22104 Intellectual Property &amp; Piracy
+LLSO 22210 Introduction to Black Chicago, 1893-2008
+LLSO 22707 Britain's Industrial Revolution
+LLSO 23100 Environmental Law
+LLSO 23415 Emergence of Capitalism in Early Modern Europe
+LLSO 23900 Introduction to Constitutional Law
+LLSO 24000 Civil Rights/Civil Liberties
+LLSO 24200 Legal Reasoning
+LLSO 24300 American Law and the Rhetoric of Race
+LLSO 24711 Lincoln: Slavery, War, and the Constitution
+LLSO 25203 Economic/Social History of Europe, 1700 to 1880
+LLSO 25204 Economic/Social History of Europe, 1880 to the Present
+LLSO 25215 The American Presidency
+LLSO 25417 Losers
+LLSO 25612 Slavery in the History of Political Thought
+LLSO 25903 Liberalism and Empire
+LLSO 26201 Economics and Environmental Policy
+LLSO 26500 History of Mexico, 1876 to Present
+LLSO 26601 Organization, Ideology, and Political Change
+LLSO 26702 Political Psychology
+LLSO 26803 Haitian Revolution and Human Rights
+LLSO 27101 Democracy and the Information Technology Revolution
+LLSO 27801 Media Ecology: Embodiment and Software
+LLSO 28200 Machiavelli’s Political Thought
+LLSO 28314 African American Lives and Times
+LLSO 28604 Law and Social Movements in Modern America
+LLSO 28611 Renaissance Humanism
+LLSO 28711 Race and Racism in American History
+LLSO 29000 Sport, Society, and Science
+LLSO 29400 Research Seminar
+MATH 11200 Studies in Mathematics I
+MATH 11300 Studies in Mathematics II
+MATH 17500 Basic Number Theory
+MATH 17600 Basic Geometry
+MATH 19520 Mathematical Methods for Social Sciences
+MATH 19620 Linear Algebra
+MATH 19900 Introduction to Analysis and Linear Algebra
+MATH 21100 Basic Numerical Analysis
+MATH 21200 Advanced Numerical Analysis
+MATH 22000 Introduction to Mathematical Methods in Physics
+MATH 24100 Topics in Geometry
+MATH 24200 Algebraic Number Theory
+MATH 24300 Introduction to Algebraic Curves
+MATH 26200 Point-Set Topology
+MATH 26300 Introduction to Algebraic Topology
+MATH 26700 Introduction to Representation Theory of Finite Groups
+MATH 26800 Introduction to Commutative Algebra
+MATH 27000 Basic Complex Variables
+MATH 27200 Basic Functional Analysis
+MATH 27300 Basic Theory of Ordinary Differential Equations
+MATH 27400 Introduction to Differentiable Manifolds and Integration on Manifolds
+MATH 27500 Basic Theory of Partial Differential Equations
+MATH 27700 Mathematical Logic I
+MATH 27800 Mathematical Logic II
+MATH 28000 Introduction to Formal Languages
+MATH 28100 Introduction to Complexity Theory
+MATH 28410 Honors Combinatorics
+MATH 29200 Chaos/Complexity And Computers
+MATH 29700 Proseminar in Mathematics
+MATH 30200 Computability Theory I
+MATH 30300 Computability Theory II
+MATH 30500 Computability and Complexity Theory
+MATH 30900 Model Theory I
+MATH 31000 Model Theory II
+MATH 31200 Analysis I
+MATH 31300 Analysis II
+MATH 31400 Analysis III
+MATH 31700 Topology and Geometry I
+MATH 31800 Topology and Geometry II
+MATH 31900 Topology and Geometry III
+MATH 32500 Algebra I
+MATH 32600 Algebra II
+MATH 32700 Algebra III
+MATH 37500 Algorithms in Finite Groups
+MATH 38300 Numerical Solutions to Partial Differential Equations
+MUSI 10100 Introduction to Western Art Music
+MUSI 10200 Introduction to World Music
+MUSI 10300 Introduction to Music: Materials and Design
+MUSI 10400 Introduction to Music: Analysis and Criticism
+MUSI 20900 Issues in Film Music
+MUSI 23300 Introduction to the Social and Cultural Study of Music
+MUSI 23503 Introduction to the Musical Folklore of Central Asia
+MUSI 23700 Music of South Asia
+MUSI 23900 Rock
+MUSI 24000 Composition Lessons
+MUSI 25100 Analysis of Music of the Classical Period
+MUSI 25200 Analysis of Nineteenth-Century Music
+MUSI 25300 Analysis of Twentieth-Century Music
+MUSI 25600 Jazz Theory and Improvisation
+MUSI 25701 Introduction to Cognitive Musicology
+MUSI 25800 Tuning Theory
+MUSI 25801 The Analysis of Song
+MUSI 26100 Introduction to Composition
+MUSI 26800 Sixteenth-Century Counterpoint
+MUSI 26900 Eighteenth-Century Counterpoint
+MUSI 28200 Multiple-Media Composition
+MUSI 28500 Musicianship Skills
+MUSI 29500 Undergraduate Honors Seminar
+MUSI 29700 Independent Study in Music
+MUSI 29900 Senior Essay or Composition
+NCDV 21201 Human Impact on the Environment
+NCDV 29800 Reading Course
+NCDV 29900 Independent Study
+NEAA 10630 Islamic Art and Architecture, 1100 to 1500
+NEAA 20001 Archaeology of the Ancient Near East-1: Mesopotamia
+NEAA 20002 Archaeology of the Ancient Near East II: Anatolia
+NEAA 20003 Archaeology of the Ancient Near East III: Levant
+NEAA 20004 Archaeology of the Ancient Near East IV: Pre-Islamic Arabia
+NEAA 20005 Archaeology of the Ancient Near East V: Islamic Period
+NEAA 20006 Archaeology of the Ancient Near East VI: Egypt
+NEAA 20030 The Rise of the State in the Near East
+NEAA 20035 Zooarchaeology
+NEAA 20051 Method and Theory in Near Eastern Archaeology
+NEAA 20061 Ancient Landscapes-1
+NEAA 20062 Ancient Landscapes II
+NEAA 20115 Women in Mesopotamian Art
+NEAA 20121 Mesopotamian Archaeology-1
+NEAA 20122 Mesopotamian Archaeology-2
+NEAA 20123 Mesopotamian Archaeology-3
+NEAA 20124 Mesopotamian Archaeology-4
+NEAA 20310 The Pre-History of the Levant
+NEAA 20372 Anatolian Archaeology II
+NEAA 20520 Islamic Archaeology of Arabia
+NEAA 20521 Egypt after the Pharaohs: Coptic and Islamic Egypt
+NEAA 20522 Archaeology of Islamic Syria-Palestine
+NEAA 20531 Problems in Islamic Archaeology
+NEAA 20532 Problems in Islamic Archaeology: The Islamic City
+NEAA 20760 Mongol and Timurid Art and Architecture in the Islamic Lands, 1258 to 1506
+NEAA 29700 Reading and Research Course: Near Eastern Art and Archaeology
+NEAA 30162 Uruk Mesopotamia and Neighboring Regions
+NEAA 20005 Archaeology of the Ancient Near East V: Islamic Period
+NEHC 10101 Introduction to the Middle East
+NEHC 20025 Introduction to Islamic Law
+NEHC 20089 Muhammad and Ahmad al-Ghazali
+NEHC 20175 The Achaemenid Persian Empire
+NEHC 20255 An Introduction to Sh 'ite Islam
+NEHC 20404 Jewish Thought and Literature I
+NEHC 20405 Jewish Thought and Literature II
+NEHC 20406 Jewish Thought and Literature III
+NEHC 20539 The Renaissance East and West
+NEHC 20568 Balkan Folklore
+NEHC 20573 The Burden of History: A Nation and Its Lost Paradise
+NEHC 20587 Israeli Poetry
+NEHC 20630 Introduction to Islamic Philosophy
+NEHC 20634 North Africa, Late Antiquity Islam
+NEHC 20636 Survey: Classical Arabic Literature in Translation
+NEHC 20710 Iranian Cinema
+NEHC 20751 Rumi: Poet of Islamic Spirituality
+NEHC 20752 The Book of Kings: Ferdowsi's Shahnameh as World Literature
+NEHC 20761 Introduction to the History and Culture of Central Asia
+NEHC 20762 Contemporary Central Asia
+NEHC 20765 Introduction to the Musical Folklore of Central Asia
+NEHC 20766 Shamans and Oral Poets of Central Asia
+NEHC 20767 Pre-modern Armenian Literature &amp; Thought
+NEHC 20772 Ancient Economies from Mesopotamia to Rome
+NEHC 20840 Radical Islamic Pieties, 1200 to 1600
+NEHC 20885 Returning the Gaze: The Balkans and Western Europe
+NEHC 20906 The Arab-Israeli Conflict in Literature and Film
+NEHC 20952 Introduction to the History of Modern Iraq
+NEHC 29700 Reading and Research Course
+NEHC 29800 BA Paper Seminar
+NEHC 29999 BA Paper Preparation
+NEHC 20089 Muhammad and Ahmad al-Ghazali
+NEHC 20502 Islamic History and Society II: The Middle Period
+NEHC 20766 Shamans and Oral Poets of Central Asia
+NELG 29700 Reading and Research Course: Near Eastern Languages
+NELG 30301 Introduction to Comparative Semitics
+NORW 10400 Intermediate Norwegian I: Introduction to Literature
+NORW 10500 Intermediate Norwegian II
+NORW 24211 Ibsen: Theory and Practice
+NORW 24700 Scandinavian Women's Literature
+NORW 28500 Comparative Fairy Tale
+NORW 29700 Reading and Research Course in Norwegian
+NTEC 29700 Reading and Research
+PBPL 20000 Economics for Public Policy
+PBPL 21800 Economics and Environmental Policy
+PBPL 22100 Politics and Policy
+PBPL 22200 Public Policy Analysis
+PBPL 22300 Problems of Public Policy Implementation
+PBPL 23000 Organizational Analysis
+PBPL 23100 Environmental Law
+PBPL 23200 The Economics of Crime
+PBPL 23600 Political Sociology
+PBPL 24101 Public Policy and Wage Inequality
+PBPL 24500 Economics of Urban Policies
+PBPL 24751 The Business of Non-Profits: The Evolving Social Sector
+PBPL 24800 Urban Policy Analysis
+PBPL 24901 Trade, Development, and Poverty in Mexico
+PBPL 25405 Child Poverty and Chicago Schools
+PBPL 26400 Quantitative Methods in Public Policy
+PBPL 26505 The Case Study as a Public Policy Research Method
+PBPL 26506 Policy Applications of Factor Analysis, Cluster Analysis, and Regression
+PBPL 26700 Economics of Education
+PBPL 26709 Public Policy: The Great Books and Articles
+PBPL 26801 Race Policy
+PBPL 27000 Introduction to International Economics
+PBPL 27501 Regulating Speech
+PBPL 27900 Global-Local Politics
+PBPL 28300 Health Economics and Public Policy
+PBPL 28501 Process and Policy in State and City Government
+PBPL 28605 Introduction to the Economic Analysis of Law
+PBPL 29000 Energy and Energy Policy
+PBPL 29600 Internship: Public Policy
+PBPL 29700 Reading and Research: Public Policy
+PBPL 29800 Senior Seminar
+PBPL 29900 BA Paper Preparation: Public Policy
+PERS 10101 Elementary Persian I
+PERS 10102 Elementary Persian II
+PERS 10103 Elementary Persian III
+PERS 20101 Intermediate Persian I
+PERS 20102 Intermediate Persian II
+PERS 20103 Intermediate Persian III
+PERS 30220 Poetics/Politics of Modern Iran
+PERS 30324 Muthnavi or Rumi-1
+PERS 30325 Muthnavi of Rumi-2
+PERS 30349 Shi 'a Poetry
+PERS 30350 Persian Poetry: Minor Genres, History of the Rubaiyat
+PERS 30361 Samak-e 'Ayyar
+PERS 30851 Introduction to Old Persian
+PERS 30324 Muthnavi or Rumi-1
+PERS 30324 Muthnavi or Rumi-1
+PERS 30325 Muthnavi of Rumi-2
+PERS 30325 Muthnavi of Rumi-2
+PERS 30361 Samak-e 'Ayyar
+PHIL 20100 Elementary Logic
+PHIL 20118 Wittgenstein's Tractatus Logico-Philosophicus
+PHIL 20305 Foundations of Probability: A Historical Approach
+PHIL 20720 Ordinary Language Philosophy
+PHIL 21000 Introduction to Ethics
+PHIL 21001 Aristotelian Ethics
+PHIL 21110 Ideal Theory: Rawls and Marx
+PHIL 21210 Philosophy and Literature
+PHIL 21300 Torture and Contemporary Moral Thought
+PHIL 21301 Moral Theory
+PHIL 21400 Happiness
+PHIL 21423 Introduction to Marx
+PHIL 21580 Libertarianism
+PHIL 21700 Human Rights I: Philosophical Foundations of Human Rights
+PHIL 21712 Aristotle’s Syllogistic
+PHIL 21900 Aesthetics of Hume and Kant
+PHIL 22000 Introduction to the Philosophy of Science
+PHIL 22215 Cicero's De Finibus and Hellenistic Ethics
+PHIL 22950 Foundationalism and Its Critics
+PHIL 23010 Knowledge and Freedom
+PHIL 23400 Philosophy of Mind and Science Fiction
+PHIL 23405 History and Philosophy of Biology
+PHIL 23409 Introduction to Heidegger
+PHIL 23502 Introduction to Philosophy of Mind
+PHIL 23709 Conceptual Change, Relativism, and Rationality
+PHIL 23710 Radical Interpretation and Affective Constraints
+PHIL 24010 Meaning and Reference
+PHIL 24130 Anscombe on Action and Ethics
+PHIL 24790 Self-Transformation and Political Resistance: Michel Foucault, Pierre Hadot, Primo Levi, Martin Luther King, Jr
+PHIL 24920 Varieties of Historicism: Gadamer and Rorty
+PHIL 25000 History of Philosophy I: Ancient Philosophy
+PHIL 25209 Emotion, Reason, and Law
+PHIL 25720 Plotinus
+PHIL 26000 History of Philosophy II: Medieval and Early Modern Philosophy
+PHIL 26000 History of Philosophy II: Medieval and Early Modern Philosophy
+PHIL 26110 Introduction to Scientific and Technological Change
+PHIL 27000 History of Philosophy III: Kant and the Nineteenth Century
+PHIL 27302 Infinity in Early Modern Philosophy
+PHIL 27500 Kant’s Critique of Pure Reason
+PHIL 28201 Topics from Hegel's Phenomenology of Spirit
+PHIL 28711 Nietzsche
+PHIL 29200 Junior Tutorial
+PHIL 29300 Senior Tutorial
+PHIL 29400 Intermediate Logic
+PHIL 29405 Advanced Logic
+PHIL 29410 Logical Consequence
+PHIL 29601 Intensive Track Seminar: Descartes' Meditations
+PHIL 29700 Reading Course: Philosophy
+PHIL 29901 Senior Seminar I
+PHIL 29902 Senior Seminar II
+PHSC 10900 Ice-Age Earth
+PHSC 11000 Environmental History of the Earth
+PHSC 12800 European Astronomy and Astrophysics
+PHSC 13400 Global Warming: Understanding the Forecast
+PHSC 13500 Chemistry and the Atmosphere
+PHSC 13600 Natural Hazards
+PHSC 18100 The Milky Way
+PHSC 18200 The Origin and Evolution of the Universe
+PHSC 18300 Searching Between the Stars
+PHYS 15400 Modern Physics
+PHYS 18500 Intermediate Mechanics
+PHYS 19700 Statistical and Thermal Physics
+PHYS 21100 Experimental Physics
+PHYS 22100 Mathematical Methods in Physics
+PHYS 22600 Electronics
+PHYS 23600 Solid State Physics
+PHYS 23700 Nuclei and Elementary Particles
+PHYS 23800 Modern Atomic Physics
+PHYS 25000 Computational Physics
+PHYS 26000 Fluid Dynamics
+PHYS 26400 Spacetime and Black Holes
+PHYS 27300 Particle Astrophysics
+PHYS 29700 Participation in Research
+PHYS 31600 Advanced Classical Mechanics
+PHYS 33000 Mathematical Methods of Physics
+PHYS 35200 Statistical Mechanics
+PLSC 21410 Introduction to Theories of Sex/Gender: Ideology, Culture, and Sexuality
+PLSC 21810 Global Justice
+PLSC 22200 Introduction to Political Economy of Development
+PLSC 22700 Happiness
+PLSC 23010 Liberalism and Empire
+PLSC 23100 Democracy and the Information Technology Revolution
+PLSC 23415 Emergence of Capitalism in Early Modern Europe
+PLSC 24001 Leviathan
+PLSC 24320 Economic Shocks, Institutions, and Growth
+PLSC 25101 Three Erotic Dialogues: Plato, Xenophon, Plutarch
+PLSC 25215 The American Presidency
+PLSC 25612 Slavery in the History of Political Thought
+PLSC 25700 African Politics
+PLSC 25800 Losers
+PLSC 26109 Core Values of the West
+PLSC 26800 Insurgency, Terrorism, and Civil War
+PLSC 27216 Machiavelli's Political Thought
+PLSC 27301 Weimar Political Theology: Schmitt and Strauss
+PLSC 27500 Organizational Decision Making
+PLSC 28000 Organization, Ideology, and Political Change
+PLSC 28211 Law and Society in the Muslim World
+PLSC 28600 Political Psychology
+PLSC 28615 Politics and Human Nature
+PLSC 28700 Jewish Political Thought
+PLSC 28800 Introduction to Constitutional Law
+PLSC 28900 Strategy
+PLSC 29000 Introduction to International Relations
+PLSC 29120 Big Wars: From Ancient Greece to World War II
+PLSC 29200 Civil Rights/Civil Liberties
+PLSC 29301 Arendt and Heidegger
+PLSC 29700 Independent Study
+PLSC 29800 BA Colloquium
+PLSC 29900 BA Thesis Supervision
+POLI 29500 THe Holocaust Object
+PORT 12200 Portuguese for Spanish Speakers
+PORT 20700 Introduction to Brazilian Film
+PORT 21500 Estilística da língua portuguesa
+PORT 21803 Introduction to Latin American Cultural Theory
+PORT 23012 Fernando Pessoa: The Prose
+PORT 23200 Trends in Brazilian Fiction
+PORT 24012 Brazilian Popular Song
+PORT 26212 Brazilian Cultural History
+PSYC 20000 Fundamentals of Psychology
+PSYC 20100 Psychological Statistics
+PSYC 20200 Psychological Research Methods
+PSYC 20300 Biological Psychology
+PSYC 20500 Developmental Psychology
+PSYC 20600 Social Psychology
+PSYC 20700 Sensation and Perception
+PSYC 20850 Introduction to Human Development
+PSYC 21100 Human Development/Research Design in the Social Sciences
+PSYC 21111 Advanced Seminar in Stereotyping and Prejudice
+PSYC 21950 Language, Culture, and Thought
+PSYC 22104 The Second Half of Life: Person and Social Context
+PSYC 22250 Windows to the Social Brain
+PSYC 22750 Developmental Psychopathology
+PSYC 23000 Cultural Psychology
+PSYC 23200 Introduction to Language Development
+PSYC 23249 Animal Behavior
+PSYC 23300 The Social Brain and Empathy
+PSYC 23550 Social Connectedness
+PSYC 23600 Development in Infancy
+PSYC 23750 The Social Brain: Social Isolation and Loneliness
+PSYC 23800 Introduction to Learning and Memory
+PSYC 23850 Groups: Attachment, Conflict, and Resolution
+PSYC 23900 Political Psychology
+PSYC 24000 Systems Neuroscience
+PSYC 24701 The Development of Emotional and Social Understanding
+PSYC 25100 Decision Making and Communication
+PSYC 25101 The Psychology of Decision Making
+PSYC 25330 Research Seminar: Understanding Communication
+PSYC 25400 Collective Memory: The Politics of the Past
+PSYC 25660 The Psychology of Extremism
+PSYC 26200 Research Seminar in Research in Behavioral Endocrinology
+PSYC 26400 Theories of Emotion and the Psychology of Well Being
+PSYC 29200 Undergraduate Reading in Psychology
+PSYC 29700 Undergraduate Research in Psychology
+PSYC 29800 Honors Seminar
+PSYC 30300 Advanced Topics in Biological Psychology
+PSYC 30400 Cognitive Psychology
+PSYC 32750 Advanced Topics in Chronobiology
+PSYC 34400 Computational Neuroscience III: Cognitive Neuroscience
+RELH 10100 Introduction to Religious Studies
+RELH 29700 Readings in Religion and the Humanities
+RELH 29900 Senior Project
+RLST 10100 Introduction to Religious Studies
+RLST 11005 Jewish History and Society I: Introduction to the Hebrew Bible
+RLST 12000 Introduction to the New Testament
+RLST 20401 Islamic Thought and Literature I
+RLST 20402 Islamic Thought and Literature II
+RLST 20403 Islamic Thought and Literature III
+RLST 20501 Islamic History and Society I: Rise of Islam and the Caliphate
+RLST 20603 Medieval Commentaries on Psalms
+RLST 20700 Medieval Women's Religious Writing
+RLST 20801 Introduction to Islamic Law
+RLST 21003 Evangelicism in America
+RLST 22111 Mary and Mariology
+RLST 22306 Being Christian in the Roman Empire: Political Loyalty and Dissent in Early Christian Literature
+RLST 22602 Protestant Reformation in Germany
+RLST 23604 Problems of Evil: Narrative, Theodicy, Anti-Theodicy
+RLST 23704 Calvin on Idolatry, Sovereignty, and Freedom
+RLST 24101 Ethics after the Shoah
+RLST 24304 Immanuel Kant's Critique of Practical Reason
+RLST 24601 Martin and Malcolm: Life and Belief
+RLST 24904 Mysticism and Christianity
+RLST 26800 The Mahabharata in English Translation
+RLST 27304 Religion, Sex, Politics and Release in Ancient India: The Kamasutra and the Arthashastra
+RLST 27604 Religion and Gender
+RLST 28205 Dostoyevsky's Crime and Punishment
+RLST 28503 Interpretation of Ritual
+RLST 28607 The Classics of Daoism
+RLST 29700 Reading and Research Course
+RLST 29800 BA Paper Seminar
+RLST 29900 BA Paper
+RLST 20603 Medieval Commentaries on Psalms
+RLST 20700 Medieval Women's Religious Writing
+RLST 24904 Mysticism and Christianity
+RUSS 21600 Russian for Heritage Learners
+RUSS 23000 Structure of Russian Phonology
+RUSS 23100 Morphology of Russian
+RUSS 23900 Lolita
+RUSS 25500 Russian Literature from Classicism to Romanticism
+RUSS 25600 Realism in Russia
+RUSS 25700 Russian Literature from Modernism to Post-Modernism
+RUSS 26200 The Soviet Visual Experience
+RUSS 26500 Symbolism and Cinema
+RUSS 27505 Dostoevsky's Crime and Punishment
+RUSS 21600 Russian for Heritage Learners
+RUSS 23900 Lolita
+RUSS 25500 Russian Literature from Classicism to Romanticism
+RUSS 25600 Realism in Russia
+RUSS 25700 Russian Literature from Modernism to Post-Modernism
+RUSS 26200 The Soviet Visual Experience
+RUSS 26500 Symbolism and Cinema
+SALC 20400 Mahabharata in English Translation
+SALC 20507 Indian Cinema: An Introduction
+SALC 20605 Reading Panjabi
+SALC 20700 Critics Of Colonialism
+SALC 20701 Postcolonial Theory
+SALC 20702 Colonizations III
+SALC 20703 Writing Postcolonial History
+SALC 20800 Music of South Asia
+SALC 20901 Indian Philosophy I: Origins and Orientations
+SALC 20902 Indian Philosophy II: The Classical Traditions
+SALC 22900 Performance and Politics in India
+SALC 23002 Gender and Literature in South Asia
+SALC 23003 Introduction to the Study of Sexuality
+SALC 23101 Love, Conjugality, and Capital: Intimacy in the Modern World
+SALC 23105 Women, Gender, and Power in Contemporary South Asia
+SALC 25701 Rel/Sex/Pol/Release Anc India
+SALC 25900 South Asia Before the Buddha
+SALC 26703 Colonial Rule in South Asia
+SALC 27000 Survey/Lang/Lit Of Pakistan
+SALC 27701 Mughal India: Tradition and Transition
+SALC 27904 Wives, Widows, and Prostitutes: Hindi Literature and the &quot;Women's Question,&quot; 1870 to 1940
+SALC 28510 Bombay/Mumbai: Urban Life/Urban Politics
+SALC 28700 The State In India
+SALC 29000 Introduction To Tibetan Civilization
+SALC 32604 Telugu Literature
+SALC 38300 Hindu Mythology
+SALC 39700 Introduction to Buddhism
+SALC 42501 Many Ramayanas
+SLAV 20100 Introduction to Slavic Linguistics
+SLAV 22000 Old Church Slavonic
+SLAV 23000 Language/Power/Identity In SouthEast Europe
+SLAV 24100 Comparative West Slavic Linguistics
+SLAV 25900 Word and Image: Reassessing Interdisciplinarity
+SLAV 27200 Modern Central European Novel
+SLAV 28600 Kitsch
+SLAV 22000 Old Church Slavonic
+SLAV 22000 Old Church Slavonic
+SLAV 25900 Word and Image: Reassessing Interdisciplinarity
+SOCI 20001 Sociological Methods
+SOCI 20002 Social Structure and Change
+SOCI 20004 Statistical Methods of Research
+SOCI 20005 Sociological Theory
+SOCI 20101 Organizational Analysis
+SOCI 20102 Social Change
+SOCI 20103 Social Stratification
+SOCI 20104 Urban Structure and Process
+SOCI 20106 Political Sociology
+SOCI 20107 Sociology of Human Sexuality
+SOCI 20108 The Institution of Education
+SOCI 20111 Survey Analysis I
+SOCI 20116 Global-Local Politics
+SOCI 20118 Survey Research Overview
+SOCI 20120 Urban Policy Analysis
+SOCI 20122 Introduction to Population
+SOCI 20129 Economic Development in the Inner City
+SOCI 20131 Social and Political Movements
+SOCI 20140 Qualitative Field Methods
+SOCI 20142 The Chicago School of Sociology
+SOCI 20152 Migration and Immigration: Causes and Consequences
+SOCI 20169 Global Society and Global Culture: Paradigms of Social and Cultural Analysis
+SOCI 20171 Law, Organizations, and Markets
+SOCI 20175 The Sociology of Deviant Behavior
+SOCI 20179 Labor Force and Employment
+SOCI 20184 Political Culture, Social Capital, and the Arts
+SOCI 20187 Problems in the Study of Gender
+SOCI 20191 Social Change in the United States
+SOCI 20192 The Effects of Schooling
+SOCI 20196 Smith and Tocqueville
+SOCI 20202 Library Research Practicum for BA Papers
+SOCI 20203 Emotions and Culture, Paradigms of Empirical and Theoretical Analysis
+SOCI 20204 Sociology of Civil Society
+SOCI 20205 Medical Sociology
+SOCI 20206 Demographic Methods:  Measurement and Analysis in Population Studies
+SOCI 20208 Internet and Society
+SOCI 20209 Cultural and Social Networks
+SOCI 20213 Introduction to African Civilization III
+SOCI 28051 Sociology of Everyday Life: Interaction, Self, and Knowledge
+SOCI 28052 Social Interaction and Emotion
+SOCI 29997 Readings in Sociology
+SOCI 29998 Senior Seminar
+SOCI 29999 BA Honors Paper
+SOCI 30302 Problems of Public Policy Implementation
+SOCI 30303 Urban Landscapes as Social Text
+SOSC 02980 HUMA/SOSC: Internship for Credit
+SOSC 20200 Survey Research Overview
+SOSC 25100 Urban Structure and Process
+SOSC 26900 The Complex Problem of World Hunger
+SOSC 29500 Readings in Social Sciences in a Foreign Language
+SOSC 29700 Independent Study in the Social Sciences
+SOSC 29700 Independent Study in the Social Sciences
+SOSC 29900 BA Paper in Russian Civilization
+SOSC 29900 BA Paper in Russian Civilization
+SOSC 39000 Anthropology of Disability
+SOSL 26800 Balkan Folklore
+SOSL 27400 Magic Realist and Fantastic Writings from the Balkans
+SOSL 27600 Cinema from the Balkans
+SOSL 27610 Gender in the Balkans through Literature and Film
+SOSL 29700 Reading and Research Course
+SOSL 29900 BA Paper
+SOSL 26800 Balkan Folklore
+SPAN 10201 Continuing Elementary Spanish
+SPAN 20400 Curso de redacción académica
+SPAN 20402 Curso de redacción académica para hablantes nativos
+SPAN 20601 Discurso académico
+SPAN 20602 Discurso académico para hablantes nativos
+SPAN 21100 Las regiones del español
+SPAN 21500 Introducción al análisis literario
+SPAN 21703 Literatura hispánica: textos clásicos
+SPAN 21703 Literatura hispánica: textos clásicos
+SPAN 21803 Introducción a las literaturas hispánicas: textos españoles contemporáneos
+SPAN 21903 Introducción a las literaturas hispánicas: textos hispanoamericanos desde la colonia a la independencia
+SPAN 22003 Introducción a las literaturas hispánicas: del Modernismo al presente
+SPAN 22701 Poesía, nación y ciudadanía en el siglo XIX hispanoamericano
+SPAN 23011 Books, Music, and Cultural Transfer: Catalonia, 1450-1600
+SPAN 23500 Literatura y crisis en la España colonial
+SPAN 24202 Don Quixote
+SPAN 24202 Don Quixote
+SPAN 25400 Poesía urbana en la España de los siglos XVI y XVII
+SPAN 28403 Tradiciones épicas de la Edad Media
+SPAN 28403 Tradiciones épicas de la Edad Media
+SPAN 29102 Mario Vargas Llosa y el fanatismo
+SPAN 29102 Mario Vargas Llosa y el fanatismo
+SPAN 29700 Readings in Special Topics
+SPAN 29900 BA Paper Preparation: Spanish
+STAT 20000 Elementary Statistics
+STAT 22000 Statistical Methods and Applications
+STAT 22200 Linear Models and Experimental Design
+STAT 22400 Applied Regression Analysis
+STAT 22600 Analysis of Categorical Data
+STAT 22700 Biostatistical Methods
+STAT 23400 Statistical Models and Methods
+STAT 24300 Numerical Linear Algebra
+STAT 24610 Pattern Recognition
+STAT 25100 Introduction to Mathematical Probability
+STAT 25300 Introduction to Probability Models
+STAT 26100 Time Dependent Data
+STAT 26700 History of Statistics
+STAT 29700 Undergraduate Research
+STAT 29900 Bachelor's Paper
+STAT 30100 Mathematical Statistics I
+STAT 30200 Mathematical Statistics II
+STAT 30400 Distribution Theory
+STAT 30900 Mathematical Computation I: Matrix Computation Course
+STAT 31000 Mathematical Computation II: Optimization and Simulation
+STAT 31100 Mathematical Computation III: Numerical Methods for PDE's
+STAT 31200 Introduction to Stochastic Processes I
+STAT 31300 Introduction to Stochastic Processes II
+STAT 33100 Sample Surveys
+STAT 33200 Causal Inference
+STAT 34300 Applied Linear Statistical Methods
+STAT 34500 Design and Analysis of Experiments
+STAT 34700 Generalized Linear Models
+STAT 35000 Principles of Epidemiology
+STAT 35400 Gene Regulation
+STAT 35600 Applied Survival Analysis
+STAT 36900 Longitudinal Data Analysis
+STAT 38100 Measure-Theoretic Probability I
+STAT 38300 Measure-Theoretic Probability III
+SUMR 10101 Elementary Sumerian I
+SUMR 10102 Elementary Sumerian II
+SUMR 10103 Elementary Sumerian III
+TAPS 10100 Drama: Embodiment and Transformation
+TAPS 10200 Acting Fundamentals
+TAPS 10300 Words and Bodies in Time and Space
+TAPS 10700 Introduction to Stage Design
+TAPS 18600 Introduction to Puppetry
+TAPS 20100 Twentieth-Century Dramatic Text: American Contemporary Drama
+TAPS 20500 Twenty-First Century Dramatic Text
+TAPS 20900 Arts in Education
+TAPS 21100 Advanced Acting: Monologue, Sides, and Scene Work
+TAPS 21500 Advanced Acting
+TAPS 22100 Solo Performance
+TAPS 23000 Introduction to Directing
+TAPS 23100 Advanced Directing
+TAPS 23250 Lab: Advanced Directing for the Stage
+TAPS 23300 Site Specific Performance
+TAPS 24000 Director/Designer Collaboration
+TAPS 24500 Chicago Theater: Budgets and Buildings
+TAPS 25000 Advanced Playwriting and the Theory of Time
+TAPS 25200 Neo-Futurists Performance Workshop
+TAPS 25300 Clean Up Your Mess: A Playwriting Workshop Focused on Structure
+TAPS 25400 Beginning Screenwriting
+TAPS 25500 Advanced Screenwriting
+TAPS 25700 Working with the Playwright: Adapting and Directing Stanislavki's &quot;An Actor Prepares&quot; I
+TAPS 25800 TV Writing: The Sitcom
+TAPS 26000 Modern Dance
+TAPS 26100 Dance Composition
+TAPS 26300 Bodies, Space, and Motion: Integrating Physical Practice into Performance
+TAPS 26700 Working with the Playwright: Adopting &amp; Directing Stanislavski's &quot;An Actor Prepares&quot; II
+TAPS 27000 Spectacle, Ephemera and Urban Engagement
+TAPS 27100 Scene Painting
+TAPS 27500 Costume Design for the Stage
+TAPS 27900 Shopcraft: Methods and Materials
+TAPS 28000 Scenic Design
+TAPS 28100 Lighting Design for the Stage
+TAPS 28200 Partnering and Presence
+TAPS 28400 History and Theory of Drama I
+TAPS 28401 History and Theory of Drama II
+TAPS 28405 Shakespeare I: Histories and Comedies
+TAPS 28406 Shakespeare II: Tragedies and Romances
+TAPS 28410 Performance Installation
+TAPS 28411 Performance Installation II: The Dreamer and the Dream
+TAPS 28414 Writing for Performance
+TAPS 28418 Decolonizing Drama and Performance in Africa
+TAPS 28420 Media, Culture, and Society
+TAPS 28421 Performance and Politics in India
+TAPS 28427 Introduction to Video
+TAPS 28428 Video
+TAPS 28433 Beckett: Page, Stage, Screen
+TAPS 28435 Brecht and Beyond
+TAPS 28444 Visual Language I
+TAPS 28445 Visual Language: On Objects
+TAPS 28448 Introduction to Sculpture
+TAPS 28449 Sculpture
+TAPS 28450 Cinema of Catastrophe and Resistance
+TAPS 28451 Introduction to Film Production
+TAPS 28452 Drawing
+TAPS 28453 Documentary Video
+TAPS 28457 Theories of Media
+TAPS 28462 The Martial Arts Tradition in Chinese Literature and Film
+TAPS 28465 Adaptation: Text and Image
+TAPS 28470 Molière
+TAPS 28480 The Worlds of Harlequin: Commedia dell'arte
+TAPS 28490 Peking Opera
+TAPS 28491 Introduction to Japanese Theater
+TAPS 28500 Advanced Study: Acting
+TAPS 28600 Advanced Study: Directing
+TAPS 28700 Advanced Study: Playwriting
+TAPS 28800 Advanced Study: Scenic Design
+TAPS 28900 Advanced Study: Costume Design
+TAPS 29000 Advanced Study: Lighting Design
+TAPS 29100 Advanced Study: Choreography
+TAPS 29102 Mozart's Comic Opera
+TAPS 29104 Performance as Subversion under Totalitarian Censorship
+TAPS 29105 Magic, Marvelous, and the Supernatural in Theater and Music of the Early Modern Period
+TAPS 29200 Advanced Study: Dance
+TAPS 29600 Advanced Study: General
+TAPS 29800 Theater and Performance Studies BA Colloquium
+TURK 10101 Elementary Turkish I
+TURK 10102 Elementary Turkish II
+TURK 10103 Elementary Turkish III
+TURK 10105 Introduction to Old Turkic
+TURK 10106 Introduction to Old Turkic-2
+TURK 10107 Introduction to Old Turkic-3
+TURK 20101 Intermediate Turkish I
+TURK 20102 Intermediate Turkish II
+TURK 20103 Intermediate Turkish III
+TURK 30101 Advanced Turkish-1
+TURK 30102 Advanced Turkish-2
+TURK 30103 Advanced Turkish-3
+TURK 30501 Ottoman Turkish I
+TURK 30502 Ottoman Turkish II
+TURK 30503 Ottoman Turkish III
+UGAR 20101 Ugaritic I
+UGAR 20102 Ugaritic II
+UGAR 20103 Ugaritic III
+UZBK 10101 Elementary Modern Literary Uzbek I
+UZBK 10102 Elementary Modern Literary Uzbek II
+UZBK 10103 Elementary Modern Literary Uzbek III
+UZBK 20101 Intermediate Modern Literary Uzbek I
+UZBK 20102 Intermediate Modern Literary Uzbek II
+UZBK 20103 Intermediate Modern Literary Uzbek III
+UZBK 30101 Advanced Modern Literary Uzbek I
+UZBK 30102 Advanced Modern Literary Uzbek II
+UZBK 30103 Advanced Modern Literary Uzbek III
